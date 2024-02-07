@@ -2,7 +2,8 @@ import random
 
 
 class FiducciaMattheyses:
-    def __init__(self, graph):
+    #the previous "kinda" balanced partition, still being used to do the partition of the rest of the nodes after the first 1000 nodes for the training set
+    """def __init__(self, graph):
         self.graph = graph
         self.partition = {}  # Node: Partition (0 or 1)
         self.gain = {}
@@ -15,7 +16,26 @@ class FiducciaMattheyses:
         for node in nodes[:half_size]:
             self.partition[node] = 0
         for node in nodes[half_size:]:
+            self.partition[node] = 1"""
+
+#a version that does the partition into two sets 1st partition with a 1000 elements and the 2nd partition with the rest of the elements
+    def __init__(self, graph):
+        self.graph = graph
+        self.partition = {}  # Node: Partition (0 or 1)
+        self.gain = {}
+        self.boundary_nodes = set()
+
+    def initial_partition(self):
+        nodes = list(self.graph.keys())
+        random.shuffle(nodes)  # Randomize the node order
+        # Set the first 1000 nodes to partition 0
+        for node in nodes[:1000]:
+            self.partition[node] = 0
+        # Set the rest of the nodes to partition 1
+        for node in nodes[1000:]:
             self.partition[node] = 1
+
+
 
     def compute_initial_gain(self):
         for node in self.graph:
@@ -84,11 +104,11 @@ class FiducciaMattheyses:
                         edges_partition_1.add(edge)
 
         # Convert sets to lists to remove duplicates and sort for consistent output
+        #print(edges_partition_0)
+        #print(edges_partition_1)
+
         edges_partition_0 = list(edges_partition_0)
         edges_partition_1 = list(edges_partition_1)
-
-        print(f"Partition 0 has {len(edges_partition_0)}")
-        print(f"Partition 1 has {len(edges_partition_1)}")
 
         print(f"Partition 0 has {len(edges_partition_0)} edges: {edges_partition_0}")
         print(f"Partition 1 has {len(edges_partition_1)} edges: {edges_partition_1}")
