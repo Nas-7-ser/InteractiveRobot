@@ -2,8 +2,7 @@ import random
 
 
 class FiducciaMattheyses:
-    #the previous "kinda" balanced partition, still being used to do the partition of the rest of the nodes after the first 1000 nodes for the training set
-    """def __init__(self, graph):
+    def __init__(self, graph):
         self.graph = graph
         self.partition = {}  # Node: Partition (0 or 1)
         self.gain = {}
@@ -16,26 +15,7 @@ class FiducciaMattheyses:
         for node in nodes[:half_size]:
             self.partition[node] = 0
         for node in nodes[half_size:]:
-            self.partition[node] = 1"""
-
-#a version that does the partition into two sets 1st partition with a 1000 elements and the 2nd partition with the rest of the elements
-    def __init__(self, graph):
-        self.graph = graph
-        self.partition = {}  # Node: Partition (0 or 1)
-        self.gain = {}
-        self.boundary_nodes = set()
-
-    def initial_partition(self):
-        nodes = list(self.graph.keys())
-        random.shuffle(nodes)  # Randomize the node order
-        # Set the first 1000 nodes to partition 0
-        for node in nodes[:1000]:
-            self.partition[node] = 0
-        # Set the rest of the nodes to partition 1
-        for node in nodes[1000:]:
             self.partition[node] = 1
-
-
 
     def compute_initial_gain(self):
         for node in self.graph:
@@ -113,24 +93,24 @@ class FiducciaMattheyses:
         #print(f"Partition 0 has {len(edges_partition_0)} edges: {edges_partition_0}")
         #print(f"Partition 1 has {len(edges_partition_1)} edges: {edges_partition_1}")
 
-        edges_partition_0_file = "TrainSet.dat"
-        edges_partition_1_file = "partition_1.dat"
+        edges_partition_0_file = "TestSet.dat"
+        edges_partition_1_file = "ValidationSet.dat"
 
         #Saving edges of partition 0 in TrainSet.dat
         with open(edges_partition_0_file, "w") as file:
             for edge in edges_partition_0:
                 file.write(f"{edge[0]} {edge[1]}\n")
-        print(f"Partition 0 has {len(edges_partition_0)} edges. Saved to {edges_partition_0_file}")
+        print(f"Partition 2 has {len(edges_partition_0)} edges. Saved to {edges_partition_0_file}")
 
         #Saving edges of partition 1 in partition_1.dat representing the rest that's gonna be partitioned into Test and Validation sets
         with open(edges_partition_1_file, "w") as file:
             for edge in edges_partition_1:
                 file.write(f"{edge[0]} {edge[1]}\n")
-        print(f"Partition 1 has {len(edges_partition_1)} edges. Saved to {edges_partition_1_file}")
+        print(f"Partition 3 has {len(edges_partition_1)} edges. Saved to {edges_partition_1_file}")
 
 
 # Define the path to the dataset file
-dataset_path = 'Dataset.dat'
+dataset_path = 'partition_1.dat'
 
 # Initialize an empty graph
 graph = {}
@@ -151,8 +131,8 @@ partition = fm.partition_graph()
 # print(partition)
 # counting the elements in each partition
 count_partition_0, count_partition_1 = fm.count_partition_elements()
-print(f"Partition 0 has {count_partition_0} elements.")
-print(f"Partition 1 has {count_partition_1} elements.")
+print(f"Partition 2 has {count_partition_0} elements.")
+print(f"Partition 3 has {count_partition_1} elements.")
 
 
 fm.count_and_print_edges_within_partitions()
