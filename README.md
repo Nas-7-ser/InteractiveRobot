@@ -2,9 +2,9 @@
 
 
 
-# Graph Processing and Analysis Documentation
+# Graph Processing and Analysis
 
-This documentation describes the process of building a graph from CSV files, converting graph data into a specific format for analysis, and counting connections per node within the graph. The procedures outlined here are particularly useful for analyzing social networks, communication patterns, or any dataset where entities are interconnected.
+This part describes the process of building a graph from CSV files, converting graph data into a specific format for analysis, and counting connections per node within the graph. 
 
 ## Features
 
@@ -93,7 +93,7 @@ connections = count_connections(graph_data)
 
 
 
-Fidducia-Mattheyes_Test_Validation.py : (i made a mistake naming the file)
+Fidducia-Mattheyes_Test_Validation.py : 
 
 Fiduccia-Mattheyses Partitioning Algorithm Documentation
 
@@ -111,30 +111,38 @@ Features
 
 Usage
 
-Initialization
+**Initialization**: Create an instance of the FiducciaMattheyses class by passing a graph, where the graph is represented as a dictionary with nodes as keys and lists of adjacent nodes as values.
 
-Create an instance of the FiducciaMattheyses class by passing a graph, where the graph is represented as a dictionary with nodes as keys and lists of adjacent nodes as values.
 
-graph = {...}
-fm = FiducciaMattheyses(graph)
+    ```python
+    graph = {...}
+    fm = FiducciaMattheyses(graph)
+    ```
 
-Partitioning the Graph
 
-Invoke partition_graph to partition the graph. This method returns a dictionary indicating each node’s partition.
 
-partition = fm.partition_graph()
 
-Counting Partition Elements
 
-After partitioning, use count_partition_elements to retrieve the count of nodes in each partition.
+**Partitioning the Graph** : Invoke partition_graph to partition the graph. This method returns a dictionary indicating each node’s partition.
 
-count_partition_0, count_partition_1 = fm.count_partition_elements()
+    ```python
+    python partition = fm.partition_graph()
+    ```
 
-Counting and Saving Edges Within Partitions
+**Counting Partition Elements** : After partitioning, use count_partition_elements to retrieve the count of nodes in each partition.
 
-Call count_and_print_edges_within_partitions to count edges within each partition and save them into files.
 
-fm.count_and_print_edges_within_partitions()
+    ```python
+    count_partition_0, count_partition_1 = fm.count_partition_elements()
+    ```
+    
+    
+
+**Counting and Saving Edges Within Partitions** : Call count_and_print_edges_within_partitions to count edges within each partition and save them into files.
+
+    ```python
+    fm.count_and_print_edges_within_partitions()
+    ```
 
 Data File Specification
 
@@ -190,19 +198,29 @@ Counts and saves edges within each partition to TestSet.dat and ValidationSet.da
 Example
 
 # Load or define your graph
-graph = {...}
+    ```python
+    graph = {...}
+    ```
 
 # Initialize the algorithm with your graph
-fm = FiducciaMattheyses(graph)
+    ```python
+    fm = FiducciaMattheyses(graph)
+    ```
 
 # Perform the partitioning
-partition = fm.partition_graph()
+    ```python
+    partition = fm.partition_graph()
+    ```
 
 # Count the elements in each partition
-count_partition_0, count_partition_1 = fm.count_partition_elements()
+    ```python
+    count_partition_0, count_partition_1 = fm.count_partition_elements()
+    ```
 
 # Count and save edges within partitions
-fm.count_and_print_edges_within_partitions()
+    ```python
+    fm.count_and_print_edges_within_partitions()
+    ```
 
 
 
@@ -211,7 +229,8 @@ fm.count_and_print_edges_within_partitions()
 
 
 
-Fidducia-Mattheyes.py :
+
+Fidducia-Mattheyes-Custom.py :
 
 (Custom Partitioning Version)
 
@@ -230,3 +249,9 @@ Files Generated
 	•	partition_1.dat: Contains edges within the second partition (1), formatted in the same manner as TrainSet.dat. This file captures the internal connectivity of the second partition.
 
 partition_1.dat : contains the rest of the partition thats gonna be split between the TestSet and the ValidationSet using the normal Algorithm (Fidducia-Mattheyes_Test_Validation.py)
+
+
+
+
+# In short : 
+The Graph.py reads the csv files and process them in order to simplify the application of the algorithm, there are two versions slightly different the first is to do the partition with preset number of nodes 1000 goes to TrainSet and the remainder (partition 1) is processed by the second randomised version of the algorithm and it saves the two partitions in TestSet and ValidationSet

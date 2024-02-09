@@ -33,13 +33,6 @@ def build_graph(directory, limit=1656):
     return {"nodes": nodes_json, "edges": edges}
 
 
-# accessing conversation files
-# graph_data = build_graph('/amuhome/a20031376/PycharmProjects/InteractiveRobot/CANDOR_survey_data')
-
-# Convert graph data to JSON string
-# graph_json = json.dumps(graph_data, indent=2)
-# print(graph_json)
-
 
 
 # New function to convert graph JSON to .dat file
@@ -51,29 +44,9 @@ def graph_to_dat(graph_data, output_file):
             file.write(f'{source} {target}\n')
 
 
-# New function to convert source and target in .dat to integers
-def convert_to_integer_ids(input_file, output_file):
-    # Read the .dat file and collect all unique identifiers
-    unique_ids = set()
-    with open(input_file, 'r') as file:
-        for line in file:
-            source, target = line.split()
-            unique_ids.add(source)
-            unique_ids.add(target)
-
-    # Create a mapping from string identifiers to integers
-    id_mapping = {identifier: idx for idx, identifier in enumerate(unique_ids)}
-
-    # Write the new .dat file with integer mappings
-    with open(output_file, 'w') as file:
-        with open(input_file, 'r') as input_dat:
-            for line in input_dat:
-                source, target = line.split()
-                file.write(f'{id_mapping[source]} {id_mapping[target]}\n')
-
-
 # accessing conversation files
-graph_data = build_graph('/amuhome/a20031376/PycharmProjects/InteractiveRobot/CANDOR_survey_data')
+#graph_data = build_graph('/amuhome/a20031376/PycharmProjects/InteractiveRobot/CANDOR_survey_data')
+graph_data = build_graph('/Users/hann/PycharmProjects/InteractiveRobot/CANDOR_survey_data')
 
 # Convert graph data to JSON string
 graph_json = json.dumps(graph_data, indent=2)
@@ -81,9 +54,6 @@ print(graph_json)
 
 # Convert graph data to .dat file
 graph_to_dat(graph_data, 'Dataset.dat')
-
-# Convert source and target in Dataset.dat to integers
-convert_to_integer_ids('Dataset.dat', 'output_integer_ids.dat')
 
 
 # New function to count connections for each ID

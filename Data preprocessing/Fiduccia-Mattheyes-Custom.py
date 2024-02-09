@@ -2,21 +2,6 @@ import random
 
 
 class FiducciaMattheyses:
-    #the previous "kinda" balanced partition, still being used to do the partition of the rest of the nodes after the first 1000 nodes for the training set
-    """def __init__(self, graph):
-        self.graph = graph
-        self.partition = {}  # Node: Partition (0 or 1)
-        self.gain = {}
-        self.boundary_nodes = set()
-
-    def initial_partition(self):
-        nodes = list(self.graph.keys())
-        random.shuffle(nodes)  # Randomize the node order
-        half_size = len(nodes) // 2
-        for node in nodes[:half_size]:
-            self.partition[node] = 0
-        for node in nodes[half_size:]:
-            self.partition[node] = 1"""
 
 #a version that does the partition into two sets 1st partition with a 1000 elements and the 2nd partition with the rest of the elements
     def __init__(self, graph):
@@ -103,7 +88,6 @@ class FiducciaMattheyses:
                     else:
                         edges_partition_1.add(edge)
 
-        # Convert sets to lists to remove duplicates and sort for consistent output
         #print(edges_partition_0)
         #print(edges_partition_1)
 
@@ -114,6 +98,8 @@ class FiducciaMattheyses:
         #print(f"Partition 1 has {len(edges_partition_1)} edges: {edges_partition_1}")
 
         edges_partition_0_file = "TrainSet.dat"
+
+        #partition 1 contains the rest of the partition that's gonna be split between test and validation
         edges_partition_1_file = "partition_1.dat"
 
         #Saving edges of partition 0 in TrainSet.dat
