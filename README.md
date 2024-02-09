@@ -1,6 +1,98 @@
 # InteractiveRobot
 
 
+
+# Graph Processing and Analysis Documentation
+
+This documentation describes the process of building a graph from CSV files, converting graph data into a specific format for analysis, and counting connections per node within the graph. The procedures outlined here are particularly useful for analyzing social networks, communication patterns, or any dataset where entities are interconnected.
+
+## Features
+
+- **Graph Building**: Constructs a graph from CSV files, extracting nodes and edges based on user interactions.
+- **Data Conversion**: Converts the graph data into a `.dat` file format for easy processing and analysis.
+- **Connection Counting**: Counts the number of connections (edges) each node (user ID) has within the graph.
+
+## Usage
+
+### Building the Graph
+
+The `build_graph` function processes CSV files within a specified directory to construct a graph. It limits the number of files processed to manage dataset size and complexity.
+
+```python
+graph_data = build_graph('/path/to/csv/files', limit=1656)
+```
+
+- **Parameters**:
+  - `directory`: The directory path containing CSV files to be processed.
+  - `limit`: The maximum number of files to process.
+
+### Converting Graph to .dat File
+
+The `graph_to_dat` function takes the graph data and writes it to a `.dat` file, with each line representing an edge in the format `source target`.
+
+```python
+graph_to_dat(graph_data, 'Dataset.dat')
+```
+
+- **Parameters**:
+  - `graph_data`: The graph data returned by `build_graph`.
+  - `output_file`: The filename for the output `.dat` file.
+
+### Counting Connections
+
+The `count_connections` function calculates the number of connections for each node within the graph, providing insights into the network's structure.
+
+```python
+connections = count_connections(graph_data)
+```
+
+- **Parameters**:
+  - `graph_data`: The graph data returned by `build_graph`.
+
+## Detailed Method Documentation
+
+### `build_graph(directory, limit=1656)`
+
+- **Description**: Processes CSV files to construct a graph representation. Each CSV file should contain columns for `user_id`, `partner_id`, and `convo_id`.
+- **Returns**: A dictionary with two keys, `nodes` and `edges`, where `nodes` is a list of dictionaries each representing a node, and `edges` is a list of dictionaries each representing an edge.
+
+### `graph_to_dat(graph_data, output_file)`
+
+- **Description**: Converts graph data into a `.dat` file format, with each line representing an edge as `source target`.
+- **Effects**: Creates or overwrites `output_file` with the graph's edge data.
+
+### `count_connections(graph_data)`
+
+- **Description**: Counts the number of connections for each node in the graph, identifying how many times each node appears as a source or target in the edge list.
+- **Returns**: A dictionary where keys are node IDs and values are the count of connections for that node.
+
+## Example Workflow
+
+1. **Build the Graph**: Start by building the graph from CSV files located in a specific directory.
+
+    ```python
+    graph_data = build_graph('/path/to/csv/files')
+    ```
+
+2. **Convert Graph to .dat File**: Convert the built graph into a `.dat` file for further analysis or use in other applications.
+
+    ```python
+    graph_to_dat(graph_data, 'Dataset.dat')
+    ```
+
+3. **Count Connections**: Analyze the graph to understand the connection distribution among nodes.
+
+    ```python
+    connections = count_connections(graph_data)
+    ```
+
+
+
+
+
+
+
+
 Fidducia-Mattheyes_Test_Validation.py : (i made a mistake naming the file)
 
 Fiduccia-Mattheyses Partitioning Algorithm Documentation
