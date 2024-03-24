@@ -255,3 +255,6 @@ partition_1.dat : contains the rest of the partition thats gonna be split betwee
 
 # In short : 
 The Graph.py reads the csv files and process them in order to simplify the application of the algorithm, there are two versions slightly different the first is to do the partition with preset number of nodes 1000 goes to TrainSet and the remainder (partition 1) is processed by the second randomised version of the algorithm and it saves the two partitions in TestSet and ValidationSet
+
+
+# Update : Adding statistics & seen & unseen partitions
