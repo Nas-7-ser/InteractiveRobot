@@ -116,7 +116,7 @@ class FiducciaMattheyses:
 
 
 # Define the path to the dataset file
-dataset_path = 'Dataset.dat'
+dataset_path = 'Data preprocessing/Dataset.dat'
 
 # Initialize an empty graph
 graph = {}

@@ -1,0 +1,2352 @@
+ID Pair ('5e52af8dd120e7000bc35826', '5f69256939716410ede6f2be'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb606019-e295-40eb-819e-a1707f3f215d.csv
+
+ID Pair ('5d446af8687d6c0019c0ca03', '5df11a727f08ed028418fa62'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ebef664-8567-4425-8ca9-9be90745a61d.csv
+
+ID Pair ('5d633f7d4b3d9000011fc60a', '5ed74a20ac241e1c4dfeb045'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a57b07c4-313d-4e67-a281-e7b1f751c191.csv
+
+ID Pair ('55f5946a32af74001017047b', '5f1f2cf5a441a30fa1b79b2d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/edc06461-10c4-4593-bb41-ef6c22d83804.csv
+
+ID Pair ('56df9a836b4093000bd896c7', '5f74d520b30576105d455fcf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fcdd8b20-100e-42a9-b790-ddd606f6bbe4.csv
+
+ID Pair ('5ec00f62cf12be40ea6fe344', '5ee6f91291a7f3467cd37704'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/75d13498-2748-4ec1-b247-f3807b358b1d.csv
+
+ID Pair ('5f40844f08e4b91ce5dee945', '5f98aeb71f6d0e1cec74defb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/797c5a5e-9e42-4ff6-b89d-aeebf4743cf4.csv
+
+ID Pair ('5ef0d0a8074e4c413a113a68', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a880ae37-ce58-4579-9460-90a84536181d.csv
+
+ID Pair ('5e6d93f7d038053607d17880', '5ea6467fe88f00661eb5638b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f366ef89-3945-415f-a670-4c7245bc7515.csv
+
+ID Pair ('5e79340b6d9a624e3f39586d', '5eccfd5e040498000acbab5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a578f247-68aa-4e9a-a1e9-6c66bbaba13b.csv
+
+ID Pair ('5cb929bfebd17d0017e7f848', '5e322c53287816210062d0ac'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc7b1681-1973-4033-8908-07c45c4de7a1.csv
+
+ID Pair ('5edff301000fa631c7b5bd3b', '5f30841ff614014e92784605'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea2e7bd7-cd72-4270-b179-63258b4a07f6.csv
+
+ID Pair ('5f0298ad4a1b58435567e7d4', '5f12a44dadcb8421418b6a80'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bfc889bf-d5e4-498b-9322-5bd5fb6602eb.csv
+
+ID Pair ('5f4c17256e656770da1ff9ee', '5f65597823696e0e9bd8f63a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/243349a8-ddca-43f5-bfa7-3ece849fc8e5.csv
+
+ID Pair ('5d7fd2a5987f70001602d95b', '5e9a363724927e0d07782751'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ffc979b7-f249-4213-8e92-1ee6c9ddfd82.csv
+
+ID Pair ('5e567cd58e4500024e8d096c', '5eb9798c0c0c95075ce61dfb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/69afe09f-da8f-4d79-9a1e-fb2bddf27924.csv
+
+ID Pair ('5ea91e89257581388e79adc6', '5eda93dcca52056b992dc4e7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/20c21d82-037a-4faf-a439-e8be15daf201.csv
+
+ID Pair ('5dd3e6b66ca7e73c42b4eec8', '5e9115dde9961610d06e08b8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a97dac88-0376-41e8-9bfc-dba6c4c0250f.csv
+
+ID Pair ('5ec82c3f67c66a10c498ecf6', '5f0cb89500197b14736aa784'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/279b4ae4-c404-4365-b9ed-976bb688c803.csv
+
+ID Pair ('5ea0d8c7e106cc0ebc3262b1', '5ea3e54c32fd2a37c8d34279'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/850c9bd1-b889-4787-a46f-6c272d6115a6.csv
+
+ID Pair ('5ec8a23062738338f917576a', '5f1f2cf5a441a30fa1b79b2d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5f968cf3-3b7f-4aef-9952-6be9e9f31db9.csv
+
+ID Pair ('5c4af67cdccaa800016b3192', '5ddef2e6929d5de6f1050f1c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/37679d14-0e7f-40e7-9448-ffd0c2daaa09.csv
+
+ID Pair ('5d3bfd65aca82300157c95c2', '5f84e179b04d981b82eec08f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/de2c068a-4371-461b-8db2-c13a5e9acae7.csv
+
+ID Pair ('5f2cc8cebc4bd01d61151550', '5f4871d41c384e3435c7e092'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4da5f1a9-e9ae-4837-802a-27c8b6675b4c.csv
+
+ID Pair ('5dd406d9c23e0d3e6dacc034', '5e9dfd0b5484b719c94cff0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cd047d60-0b00-4b46-8f15-892fa5471510.csv
+
+ID Pair ('58641c3bdb3e720001e22831', '5e2f4df549436751a44c8d8e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9e2f24cc-108a-4c24-9fac-c07635299a98.csv
+
+ID Pair ('5e5c5cd271e46043eab5fc56', '5f52c941fc18905c7e8f78fd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2b74fe16-8ecd-476b-a432-b0b11dbe98fd.csv
+
+ID Pair ('5e3a1f06bba7e623f17f5669', '5edef14e402f7d1ac3b97c74'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5fa25b94-a44f-4677-88c4-94e8a40805f9.csv
+
+ID Pair ('5ef6bb87b83f3b000a3f04ae', '5f7e700fa9c86614bbb5343a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dbab57c7-0154-4191-be76-5d7f60a0618e.csv
+
+ID Pair ('57656f6c2bfddf000125cce5', '5aeffc6e0ccc2e000185aa28'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a95e659b-623e-47e7-89e5-9f4088fc7a8e.csv
+
+ID Pair ('580cab86b869700001d71628', '5ea0d8c7e106cc0ebc3262b1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0cf99695-c570-4da0-85f9-02f9bc109e5b.csv
+
+ID Pair ('5d17227bab610c00170fd98d', '5e975ea254955d0bfe9f7929'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d4ccee91-3bde-4413-a4c4-2b1788dfe23e.csv
+
+ID Pair ('5e64629155bf351e8bd24721', '5f08916db314750bc9206ce8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/90ae2f6b-e8c5-498e-b952-95ffb8446d52.csv
+
+ID Pair ('5d515de747ee500019e799ea', '5dd1fe642b033b24c852394d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4c1df7a0-95d9-4c6f-b665-a954f934f10d.csv
+
+ID Pair ('5e83bb0601aa8c11929fa6d4', '5e8cc937ee95da07853f938c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2dd388ce-cf4d-40c2-9e66-4a167170ed5d.csv
+
+ID Pair ('5ec81134ac7d6b2b9ac51453', '5ed74a20ac241e1c4dfeb045'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a05537d1-83db-4a99-8d47-d6dc9de254b2.csv
+
+ID Pair ('5e33f0622878163a8387ee65', '5eb9cea0d0a682113d2c05a1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/97237153-37f6-48f0-a8ea-45ab74ccb18a.csv
+
+ID Pair ('5e646abe244a7f1feb0f6321', '5ed5e0276122c5175e4509d0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0480a711-11cc-4812-97e2-7a5fa69858fa.csv
+
+ID Pair ('5ce30fb4c6aade001903ed6d', '5e975ea254955d0bfe9f7929'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2d8791a3-3ad0-4011-bdc1-2dde05ebcba2.csv
+
+ID Pair ('5f0aa896791e0236de3fbdcb', '5f15fbdf2c61ce144ceeb357'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3ac003e3-80b0-4aae-a30d-7c3749f2ede7.csv
+
+ID Pair ('5d2e4fd16adc630018df841c', '5d537ba1809af30019713699'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ba9f29de-54ff-47ac-bbff-c8a40bad1689.csv
+
+ID Pair ('5d7bd6f64b15c1000195721a', '5f0fa78daeef1d18edccd806'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4b5456a6-6363-4d2a-9692-515203591a92.csv
+
+ID Pair ('5ef0d0a8074e4c413a113a68', '5f1d266c6f7d7f62a219fade'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/47e11fd0-9ceb-4ffa-ad74-0203e28427b3.csv
+
+ID Pair ('5e8727fb90c37002d97ca052', '5f0c058eda9c680009ef5de6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2cce874b-1165-4bd9-9676-831266579272.csv
+
+ID Pair ('5c47febdc41b2a000183b95a', '5ec4a0fffe991f37f61b356e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4d72499e-6683-4b98-8df8-315cb63a0a94.csv
+
+ID Pair ('5e6f930a8c586155bdfffc4b', '5ea373a13602a7135cee9b13'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f1a81b38-3d6e-48ac-9ae4-b219227d62e9.csv
+
+ID Pair ('5efbdfe2d66b1418c2ba858a', '5f4c9e74da9c148b0d42ecbd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/84842960-26e4-4adf-8de0-e6319684d69f.csv
+
+ID Pair ('5d5dc2d37bfc8400013b653c', '5f51265c4873f23082851a5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bafe687c-ab2e-4dc0-bb47-80014760aab7.csv
+
+ID Pair ('5cc344f6a187880001370d77', '5eaa287bfb0fca19f4306de9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dfe237de-d73e-479d-92a1-6c0e40c9b731.csv
+
+ID Pair ('5ec4a0fffe991f37f61b356e', '5f50544b526bec1ce4a44f70'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4534b849-b002-42f2-84e7-d2cc9e73fa24.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5eb2f1a1ce5ba10ab2c0a042'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/350d3731-d65a-473f-95b6-f2c6f300ba93.csv
+
+ID Pair ('5c284e0970d93a0001211e16', '5ef6bb87b83f3b000a3f04ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e113df7-07f6-4d1a-b5ed-c401e230f4cb.csv
+
+ID Pair ('5f23ff398626c51fdd6c3fb5', '5f9046884e1e100ba07765be'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cc7ea669-d658-4508-8d31-87c646bc580e.csv
+
+ID Pair ('578b7f0e900cc80001d2e55f', '5f8e2a9201810e1f2b9f63a2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a817f8f3-e988-4799-a15b-e75caa1257da.csv
+
+ID Pair ('5dd4bd7ae4f4a0499548a810', '5eaa287bfb0fca19f4306de9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2609820a-8b4f-4827-b94b-df5244dbb4d8.csv
+
+ID Pair ('5df40839a1f3612e51ff72bb', '5e372f7ee63d3c000b152fc2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a8c50e7b-354f-451a-8d94-c9f0001f53c3.csv
+
+ID Pair ('5deb1865986140241391d84a', '5efbbac9041ae7163c083d36'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d17b1fe2-009e-4c93-81c0-2db63c3f0287.csv
+
+ID Pair ('5ea911550ffb2437c4241ec3', '5ee6eb360d297347867f3e6d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e9edb4f0-3d9e-4539-a9b0-f77bfff6c55f.csv
+
+ID Pair ('5dd4767b32288646716dc98a', '5dee44454d7bea4e3f4b44a6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ce2e8759-15dc-4b8a-86bb-cf47fe62d37b.csv
+
+ID Pair ('5eaf15bc1d4ec560bc37efab', '5ee143ff2ec63852160688cc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a87704d1-e02c-4ae8-9697-53d41f46ef41.csv
+
+ID Pair ('5a127fc7c259f30001766641', '5e1545d9b1fb05b6369d13e8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f7c6a07a-8d15-4476-89a2-25ce9fb862d6.csv
+
+ID Pair ('5c4af67cdccaa800016b3192', '5dcb1db49173807fc66660cb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6d936bf9-9bdb-4755-83dd-01b115fe2786.csv
+
+ID Pair ('5df88caf783225616ad3defe', '5e958157d5fa4490493e6c0d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bff43e52-219f-43ad-8329-9ba68c30260f.csv
+
+ID Pair ('5b95981f21e7200001f5987a', '5e8ca66ce6592d0350103956'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/419c2d57-3d26-4c4e-a5a5-de392846532f.csv
+
+ID Pair ('5c4534332b1bda0001f5791f', '5ea6467fe88f00661eb5638b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/21b8dec1-fa9c-4603-993b-86e2130529ec.csv
+
+ID Pair ('5ea9c6541eb4f0121a911e1a', '5eb626e38224d351c2580802'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/52565e58-97f6-42b8-9697-a17869a7dfed.csv
+
+ID Pair ('5e606b1eaf84e83c728748d7', '5f4c9e74da9c148b0d42ecbd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/782a11f3-337b-4794-8888-82aca3675442.csv
+
+ID Pair ('558b7b06fdf99b21155f2c1b', '5f51530ebc50f53857d60824'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1ef4512c-1ae0-4edc-bf53-7b966c2c5a5c.csv
+
+ID Pair ('5ee3fddcc8ba5c0ecbd0699e', '5eef1e59872e07000ba6cb37'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8de72bfa-931b-4d91-abdd-7fa0053db775.csv
+
+ID Pair ('5f6a9691737c9117d1ed1152', '5f7357ed17b7c1054311b85b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e5501c94-8b1d-4a14-b2ad-d21cb173b87d.csv
+
+ID Pair ('5c43c90d5aca820001f73f6f', '5ea1fcf9dfd09210e8645727'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7b0c2ca2-e2cc-4b72-a930-b52ad2dba8ae.csv
+
+ID Pair ('5cb60f1eefd4130001bbfdb7', '5db89792ad8fd5000c855134'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2d901561-fa27-4532-af85-be4a5cb511fd.csv
+
+ID Pair ('5a7b2b52000dab00018c402b', '5e862e27f569ad0c21028e09'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c71bf2d3-29f0-4fa3-8436-89eea02c7c1d.csv
+
+ID Pair ('5eb4c6510ef386339dde2a35', '5f08891e392f740a659bbc7d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/de49a5cd-4391-4bbb-a17b-b7ae4f3f1c54.csv
+
+ID Pair ('5ed674a74aaed5093c46b6e8', '5f0963c6310eaf000b922e94'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/36f338b1-bb0e-4c79-b40d-1c584913f262.csv
+
+ID Pair ('5c35101dbef9a20001e323f2', '5ea9c6541eb4f0121a911e1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4b52c90e-e486-4276-a029-7fba4861396d.csv
+
+ID Pair ('5f3c2648a9ef86a4c10de377', '5f65597823696e0e9bd8f63a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5d106c0f-e40f-453c-b1a4-3b90e3cb8b4c.csv
+
+ID Pair ('5e567cd58e4500024e8d096c', '5eb166711c9ed5255c4ea6d9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5f3c916e-a2d5-44ce-b39d-41c9d29de48f.csv
+
+ID Pair ('5c0023fb2213be0001c2cdde', '5efbd589ceb6b9190882911d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d7b17f1c-b02a-4971-ac95-8dcb2b675e02.csv
+
+ID Pair ('5f78dc19c0ca6c1197e189ab', '5fa19ff29675d12de2935107'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c0775391-b8c3-4884-aaec-ff8b1b5d1de4.csv
+
+ID Pair ('5c7e91c1973c990016ea72b0', '5eb9af967fbf4b0d17bbe946'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/14e34c4e-4e27-42d8-928f-ad4a71f80764.csv
+
+ID Pair ('5be04ea54a5e53000157ac4f', '5f4f880fe0a90c049c47adca'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0736fa95-99e8-4707-bd64-4552eb79d05a.csv
+
+ID Pair ('5ea720c9f599000d94151f4e', '5eb4c6510ef386339dde2a35'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/81970851-7b9a-40fa-b78d-25ece4ae0755.csv
+
+ID Pair ('5b57dcb2b1c76d00016f8599', '5c327f67cced450001d49ea4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/53ea87fe-9cea-4434-9c1d-25f166620630.csv
+
+ID Pair ('5e0e49cfbf3d4e5b0925b2a3', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5a296223-a8fc-42bd-adc9-7e9382109c63.csv
+
+ID Pair ('5d961edc1b7e120012c4ca34', '5d96fe713cc967001852334f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/06afb9c1-b367-45c7-a9ff-74c47a2cb61c.csv
+
+ID Pair ('5c08aaefa4e5fc00017541dd', '5ea8716537c7770c1290b09d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7027e9d9-acb8-4e3d-ae90-2d2a35672cc3.csv
+
+ID Pair ('5cb41daa19eba30012701245', '5d74001d391b6600175f433b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b5134acd-875e-4826-9ab8-42d9b49c8530.csv
+
+ID Pair ('5c291c9e1496350001cd4646', '5f0e30afab8b8f15654689e8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f306b427-2bc5-4641-afd7-34982399fc52.csv
+
+ID Pair ('5b32599cc8e94a00018f22a5', '5ed6a20e56cb1a0f7f8f7d20'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9cd43649-cd28-482d-a29a-001d6e1e0aee.csv
+
+ID Pair ('5df9d7c2451be5738da84e4d', '5e51dfe3618c57215938d7b7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc4262ab-08ce-4085-9609-10cf3aee883c.csv
+
+ID Pair ('5be05da9b5be300001e54be5', '5de980f63d36b20b9068cfed'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d9f18045-50ab-4584-9094-49bbedff4b72.csv
+
+ID Pair ('5e80d8569d1bdf03449b0c2e', '5ed56587e879740cccc9d62a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2b52341f-05ff-4341-905a-c264b228e625.csv
+
+ID Pair ('57950da04a84da00014c5dbb', '5b4983840753d30001db8ab3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2b5a65a2-f865-4de5-875a-4515376a8a1f.csv
+
+ID Pair ('5ed2fa0793788128b41df2cd', '5f16520a9e2ee97d266d4241'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ca2928f3-9605-4a2c-93ad-b269bce86c58.csv
+
+ID Pair ('5f499b471c384e50e424e5a9', '5f4d953dc185c2a72d7d56ab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e7247d72-9b95-4d9b-bb40-f60595457fe5.csv
+
+ID Pair ('5a73899f9cdd1800017786f0', '5f4d2156f727e10c3c2c4a35'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c135c056-e51a-40f5-ab96-cc9f217f6389.csv
+
+ID Pair ('5dcb55b60133ef83a90f85ac', '5e322c53287816210062d0ac'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9786cb35-0ef4-486d-85eb-42e234af5722.csv
+
+ID Pair ('5b6cb3049ee1a50001c5ef0f', '5be31317d6e8c40001d00d23'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dc4d280b-baf7-4173-aa45-e80b18fc495c.csv
+
+ID Pair ('5efd41a487c4ec1945330e9a', '5effc7a64495250cbb0d8de8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/92c5bc68-fbb8-4743-b0ec-464132eddb33.csv
+
+ID Pair ('5f2850a9d9a5f01279e1bd16', '5f30841ff614014e92784605'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e8856a77-dc6b-4ddf-81c3-7f50cad6fbd6.csv
+
+ID Pair ('5e483052a742a3000f7c15e8', '5ea749262a23e31252937fc9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/95080666-a5c6-4e59-904f-1efb10065762.csv
+
+ID Pair ('5d3758292faa0d0016797c0f', '5f07c86524cc101f35f443e6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d3dd8fbc-3d4f-4e66-8364-47c50043be1c.csv
+
+ID Pair ('5f499b471c384e50e424e5a9', '5f56e1d1b72358165158550d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c5e66cf8-159b-43d6-8cfd-0c2baed92c69.csv
+
+ID Pair ('5da20df461471f0014bb184e', '5dddbebeb966ded354c7ab3b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7d078985-6c61-4009-b25a-565ea5b1ed56.csv
+
+ID Pair ('561d98e03d7fe8000b0f5e09', '5b4983840753d30001db8ab3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/374ee3bc-300c-4b66-9965-1220d5667e49.csv
+
+ID Pair ('5f3ac1732efa0a74f975b1a8', '5f5127e45185c93094565dcd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/72357fad-5497-42d7-83c7-72663f8bed0d.csv
+
+ID Pair ('5e26a04f727e048d3e0b9459', '5f15da27044c9b700c9b7432'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/093aadd5-f50d-4f43-9793-faf61c11a70c.csv
+
+ID Pair ('5de1ef4ecb1b08240f97671a', '5f482b0da1cde52de45f174c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/778ba8d9-9eaf-41bd-9ffa-aa9033cb1b3b.csv
+
+ID Pair ('5591b00afdf99b62fdfd6a34', '5e8ca66ce6592d0350103956'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5a0ac4b2-c32c-4328-85ff-f57b645f838a.csv
+
+ID Pair ('5d79375d794d900017671c07', '5f4f880fe0a90c049c47adca'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e0f6919b-8da9-48e2-85a9-3470a8da03a9.csv
+
+ID Pair ('5dacf0bb8f8b6800114d9013', '5ee9201596dd421333942d06'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fce13627-0b42-435c-898c-235aa351b8fb.csv
+
+ID Pair ('5deaac8dff7f711d9032fa94', '5eeaa8ee94a7f8046a02a20d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3ad6d382-667f-47d4-bbc6-12c60928c4b2.csv
+
+ID Pair ('5af67a42e066a400011347c0', '5ec82c3f67c66a10c498ecf6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/07094abd-8b2a-426a-8dca-edead45c2143.csv
+
+ID Pair ('5a135875074b1900012527a9', '5e7fefe06c12706d47e35211'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1d258491-0ed5-41c8-96c3-af875ef4f1c5.csv
+
+ID Pair ('5f48fc7ff922922cbcb9c25d', '5f674f8b8dbc2b0416c59902'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e8a4c738-23c0-48bb-91d8-6eaa07d075e8.csv
+
+ID Pair ('5bd8d97c26903900018579d3', '5f6be2474140c215c8ebbe52'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/54fb8d98-5142-4ffa-9227-29319f91a287.csv
+
+ID Pair ('5e4aedd76f4883000e48bfe4', '5e97af0bca82b6278c859323'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/80d9e496-db7f-49e3-8789-06850e62ffa1.csv
+
+ID Pair ('5d81746b784c7600198580ee', '5f5d072a03bb910d975cc8ab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4a50f7ad-7b2d-439a-aebf-17f9abf9eefc.csv
+
+ID Pair ('5d10eaf23afd390019075267', '5f0b33e16edeb5429793f878'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4f4d07f8-cd05-4330-b446-6b314915be49.csv
+
+ID Pair ('5ebb26803576b50eb12d87d9', '5f84093b9b3e190008131671'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1699d7c9-be90-437a-bd68-eff94e651105.csv
+
+ID Pair ('5be31317d6e8c40001d00d23', '5e21cfa097308b4b1dc8f24d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/776df112-4de3-40af-8db6-74adffe95ace.csv
+
+ID Pair ('5db9a46ff8e3f9000f88cb85', '5f1797269c4348022140d2f9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3bdc16b8-2b33-41c1-9375-d960f4d01e0b.csv
+
+ID Pair ('5e7e70c583c34c53f6c643db', '5eea4a214c865810724760f1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bd0aaafb-f27f-408e-b8af-b41c879338cb.csv
+
+ID Pair ('5dd324424524e7334967690d', '5f84e179b04d981b82eec08f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f60a6f13-f859-4423-9259-fc14b76ee36e.csv
+
+ID Pair ('59d5126df35ff40001914d8e', '5deb1865986140241391d84a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/95d7d1a0-eeca-4eda-9b1d-9e72edd0c560.csv
+
+ID Pair ('5977e3867412f8000194e1fe', '5e387b36caa8e1000da3f0f8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8ee0f515-ff66-4189-bd7a-bde430931fe9.csv
+
+ID Pair ('5b66ce776f0d0400010d678d', '5f0c058eda9c680009ef5de6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/48ced667-0e23-4a32-b880-99c2504af593.csv
+
+ID Pair ('57272517e386b9000e3e2b72', '5cb60f1eefd4130001bbfdb7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb18ac98-a58c-4599-8bc8-461dab667322.csv
+
+ID Pair ('5e2a2246ff519c000a305892', '5ea8bd7dde405c135b36267b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/19378a93-9f81-49c0-8433-674ea8bfdda6.csv
+
+ID Pair ('5ea3310bf9c4f828f0c909c5', '5edff301000fa631c7b5bd3b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/01a62310-06c3-4b69-9d75-50f1e2f1dabf.csv
+
+ID Pair ('5e8a26247ad7526bf85abbff', '5f0a1bbf4095fb1232dc7940'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/36f6f438-7d8d-4c6a-965b-43c17261c091.csv
+
+ID Pair ('5e4aedd76f4883000e48bfe4', '5e67f8f38e1aca0a31ee82d7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0d4f91ca-dcee-47f3-8549-7bf112a2d77e.csv
+
+ID Pair ('5a78c698000dab00018c2598', '5e9b3c62943331040367e599'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/887e8f31-1da8-4a42-8aa9-23f6cb0781a2.csv
+
+ID Pair ('5b97f8988ae8150001c7a887', '5f1d266c6f7d7f62a219fade'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/77b4db2b-38f4-40ef-8b6a-cce0d6095197.csv
+
+ID Pair ('5ce30fb4c6aade001903ed6d', '5dee65dc03364951083cd77c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/34a130d2-e750-44d9-923c-97ccdc55f60d.csv
+
+ID Pair ('59d5126df35ff40001914d8e', '5d10eaf23afd390019075267'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/02053f7c-a002-4797-9139-037798747eb2.csv
+
+ID Pair ('5d8d821215875e001482ece7', '5fa41b6733b31601ac3f79c5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/05d984c2-1a2e-4bb2-8f4d-98c81fde6664.csv
+
+ID Pair ('5d792a20c0a7b8001879154a', '5ec6e4ebdab574105b1bf4d9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a026aa58-bff9-40c8-ae2d-4d007a9fa279.csv
+
+ID Pair ('5db3a4ad4e72fe000cfb3dc9', '5f19ad917bbdf2021cafbedc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6fb27106-8840-406e-a800-99d1516191ce.csv
+
+ID Pair ('5e322c53287816210062d0ac', '5f6b75742bd7e60776191cb4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c8576907-a339-4caf-ab95-4a3e8385eb23.csv
+
+ID Pair ('5d1aadf961a40900171f6931', '5e80d8569d1bdf03449b0c2e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3045ec04-252c-420e-8646-c6b0e150ca74.csv
+
+ID Pair ('5e097142864020244036e40d', '5e9bc5c73a47a40d4ddc16d5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/889978ac-40cd-4dc0-bb79-39334f6037e2.csv
+
+ID Pair ('56db4c217dcddf000bd5853c', '5c670a430d80fd00014264f9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/72ab1fc0-4e9a-4b21-8ff1-81a9ae0a37ef.csv
+
+ID Pair ('5c738ffc61dd7e0001a16a72', '5ed56587e879740cccc9d62a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/42d99fff-daee-41bc-ba4a-55b6a787e51d.csv
+
+ID Pair ('5dee44454d7bea4e3f4b44a6', '5ecb2895bc80406a12e913a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3851cd44-577e-4d78-a45b-5333009f7dad.csv
+
+ID Pair ('5e3f6b251d15101c5251d8b7', '5f16fa8069dc2901cd1e0b05'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e2ef082b-02bd-4dd0-bd3d-6287665bcfc3.csv
+
+ID Pair ('58f0fca0d40252000192f201', '5f5127e45185c93094565dcd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7656b1cc-74e6-499b-8910-fc99f2e41885.csv
+
+ID Pair ('5e80d8569d1bdf03449b0c2e', '5ea492e3b1b3620a6fee3b90'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d50eceff-02d7-4c79-88bd-133b9972b0f6.csv
+
+ID Pair ('5d8d821215875e001482ece7', '5f56e1d1b72358165158550d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b66a9e7f-9acb-407b-b6dc-029fc3b31ff2.csv
+
+ID Pair ('5deb1865986140241391d84a', '5efe8b72abf513385a21eecc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/235f7b67-2ee7-4195-add8-21b41ad61f74.csv
+
+ID Pair ('5c7a4ca80b94ca00164122a1', '5ea3310bf9c4f828f0c909c5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8e76a02c-9b07-4a8a-b70d-0f8ff57b82e2.csv
+
+ID Pair ('5e436fd5a21260000a4d49f7', '5e75b3b5cf9c271200060583'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3e4b373e-f0c5-49f1-9bf0-20332f3ec712.csv
+
+ID Pair ('5ef6bb87b83f3b000a3f04ae', '5f514f870e7da937375cdde0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6f21a4f3-ec09-4402-998a-dec8f9fc09d2.csv
+
+ID Pair ('5a49d6a06d85f80001c25bc4', '5ec453f93ba6b432bdf01d58'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3a47cc58-f351-4050-b06f-a0b505f2e7da.csv
+
+ID Pair ('5c97d5bb41502a0017b3aadf', '5deb1865986140241391d84a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/202d99fa-91ea-4893-a15f-365039e198b6.csv
+
+ID Pair ('59877315f8b162000167a2c6', '5e7bc9097c3dc10d282d65e2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/18984e66-990e-4e54-b3f8-921fdbc351ff.csv
+
+ID Pair ('5ed1e0f7ba6548028fc64722', '5f641cfa0c8b8b19b424aa4d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1a19835c-4dd1-4d29-b945-e0b25285a26a.csv
+
+ID Pair ('5c8be0dd542fbd0016924f5f', '5f14c40b8a043d54837e0601'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d37f95f5-973e-4f04-b270-9a5663af6f3b.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5e08389f67f170185698a2be'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea29afa5-e18a-47a9-93bf-87bfbb94c1d5.csv
+
+ID Pair ('5ea91e89257581388e79adc6', '5f18ff404f90fe1473c2e3b6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f1f6de10-a5a9-42a2-a9e5-dd969e37171b.csv
+
+ID Pair ('5dd8cb39dba6348743ec0915', '5eb2130d443a54374163d76b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7fc59ebb-a980-4df1-9d39-f15ae25f3f27.csv
+
+ID Pair ('5c102b9461df5c0001cb468b', '5cb35e2314235c0001320446'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/075926c6-9b88-42d2-8d03-f5fab051bfbb.csv
+
+ID Pair ('5dd33bd8f01cbe3350807cf6', '5de1ef4ecb1b08240f97671a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/43a2d7da-fee2-403e-8e99-5d6e124ae89d.csv
+
+ID Pair ('5ec81134ac7d6b2b9ac51453', '5f6b69d064b69d05a7c7c621'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6805b7d1-d362-4731-b766-b39aba421c6c.csv
+
+ID Pair ('5c102b9461df5c0001cb468b', '5ef6743fa4d98d36b3d86694'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dc8a196d-d8e4-497d-99c9-b3db414b91b2.csv
+
+ID Pair ('5c270d8f2c45d400014909e8', '5c7e91c1973c990016ea72b0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/39679832-1a7b-4596-a70b-89fa8c40a6f7.csv
+
+ID Pair ('5ec82c3f67c66a10c498ecf6', '5eefcccaf9461b13feb83c5e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d565e7d1-2faa-49e9-bee6-a1b44d9e4712.csv
+
+ID Pair ('5df0524c1217a00b60a0328d', '5e7d54301b20a23de6e1fb74'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e05d18de-3789-4acf-bb5b-68453bc2bb5c.csv
+
+ID Pair ('5e438573651bae2106fb0f21', '5e87fee4c740a748f50a63bb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d7550f6d-b4cb-4174-bf34-2bad900a2573.csv
+
+ID Pair ('5e567cd58e4500024e8d096c', '5f4d92a4584ab6064be44ce5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fb16ee03-db99-4cbb-a5ab-b61807b8d51e.csv
+
+ID Pair ('5b8320b0b0d72600018dc739', '5e50bf5e2cfcc30ff7f5d870'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b7fae6d8-8246-45ef-a497-c6555e8c10bf.csv
+
+ID Pair ('5c270d8f2c45d400014909e8', '5f5a6c23009333128f6f7d82'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/45c948a5-a1fb-4e9b-b754-049923156b2a.csv
+
+ID Pair ('5d42486206811e001ada5b4b', '5dea961cf4c5e11bd9c4058c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/20f92d63-d3aa-44bc-a593-2d50a720d30d.csv
+
+ID Pair ('5dae16d241fbb6001160ce72', '5ea9c6541eb4f0121a911e1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7f717277-d9ae-4dbc-b520-0b741d91a6c7.csv
+
+ID Pair ('561d98e03d7fe8000b0f5e09', '5c5f7a56054ae60001d066f2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/701ef0cb-c9fb-4050-81cc-2eceb099a891.csv
+
+ID Pair ('5f07ec0ec025b5421c3e3379', '5f7357ed17b7c1054311b85b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7a9841f0-c22d-48c5-a469-5ab0b4a4f9e4.csv
+
+ID Pair ('5eb1e9b96c1f4713ed5d0a1e', '5ed442ea258f2e4098c6b153'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f7862616-6c5f-4b90-9b62-1fb0cbcc9a62.csv
+
+ID Pair ('5f482c4fe3554b1966defc03', '5fa6006c1355231e6094a472'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b47d4592-80d7-4e98-bbf1-d872e64899cc.csv
+
+ID Pair ('5f165eddcff9011bb582c376', '5f47e116dbc4a2230a521331'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3b130d42-5bfd-41c0-a5a0-30779f70b65a.csv
+
+ID Pair ('5dcf716a5726040ac12efe1d', '5dd332d218beb6343b22a5e4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8ec55249-5189-4055-bb68-c2466e320f90.csv
+
+ID Pair ('5dd3d7787b6a663b7f0e3846', '5ed5e0276122c5175e4509d0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/73162393-05b0-4ed5-a8dd-ca0cf2faf9a8.csv
+
+ID Pair ('58ae59babb9e0f0001acb414', '5aa61dd36475f90001a05dcf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7c0300f4-efb0-4b79-beeb-f70087835899.csv
+
+ID Pair ('5cef4881fb09f7000157f151', '5f4a4da1575d605c43bef871'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea166258-9411-444c-8433-0868e36d8923.csv
+
+ID Pair ('5dd5db1ded7ea4574c7bc996', '5ecb2895bc80406a12e913a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/68bcb0c3-8dab-405a-a737-3e18d2f63bb8.csv
+
+ID Pair ('5ef6bb87b83f3b000a3f04ae', '5f4d92a4584ab6064be44ce5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6d57b921-6642-4b3c-a153-faa7bca3ffe7.csv
+
+ID Pair ('5ea1fcf9dfd09210e8645727', '5f50544b526bec1ce4a44f70'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/17460295-99ab-499c-9c0f-8b8524018405.csv
+
+ID Pair ('5d10eaf23afd390019075267', '5f5d699b1b86c05bcf242f45'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e0fef00d-2ae2-4c21-8205-8753fc580ec1.csv
+
+ID Pair ('5a79f14a8fe2dc00010593eb', '5c707aa503f85b0001af8c7b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a1a433b8-85da-405a-b082-5bf13c78b751.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5ece6a57886a6c22341b1ead'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/df55d2f6-91f0-480e-89a3-36b2a64b626e.csv
+
+ID Pair ('5ed1247740e3ed03a7b6bff5', '5edf2043d53fce1c797d9f5d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/571a07dc-20ed-4983-ba2d-a6a9461065ec.csv
+
+ID Pair ('5c75471e5eb59f000131c7a4', '5c97d5bb41502a0017b3aadf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/230a227f-e1e3-46ef-8817-37912ba9f87a.csv
+
+ID Pair ('571cea664ca277001153c045', '5f612984e5033f09587f0faf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/be833fa5-7aee-4eb7-a004-ce74a2918492.csv
+
+ID Pair ('5f15da27044c9b700c9b7432', '5f47e116dbc4a2230a521331'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d6470dcf-1876-4c83-ad99-a9594128366d.csv
+
+ID Pair ('5f29dfe7512c2817f7957e1a', '5f39c08c4b0c7456a60d4932'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a56b2f30-45f4-4ab7-8e3d-21499dcc1c00.csv
+
+ID Pair ('5f50544b526bec1ce4a44f70', '5f5e8c58f7e0497501c4e356'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b35f8dee-50c3-44c3-9ec7-9ce610e26e34.csv
+
+ID Pair ('5d633f7d4b3d9000011fc60a', '5efbd589ceb6b9190882911d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e35a2d3-ce3f-4b01-bd3d-b466ebc0a951.csv
+
+ID Pair ('5615777c7ffc8a000a811c61', '5e3db8f9456974000afeb855'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/06b83c0a-7bf1-4cf9-9e72-034615d97050.csv
+
+ID Pair ('5e6cade3d92ffb26677dbd84', '5f0fa78daeef1d18edccd806'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d2f289b1-7243-40ad-a0a8-0696db65fc77.csv
+
+ID Pair ('5d378c6281077c001962a614', '5d9bf6ef9bb6870364067287'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/52661f6d-1cce-49eb-bdeb-5ed40f19a273.csv
+
+ID Pair ('5ebbfc3729e14e0372002deb', '5f483a1fc209342e6f419be4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1816c0b9-9abc-4330-a66d-e5c1e3c50b95.csv
+
+ID Pair ('5d961edc1b7e120012c4ca34', '5f113ec4c304894ad573296c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e12fed95-8f11-4255-b8c7-f5c0346b8e59.csv
+
+ID Pair ('5d10d808156091001a74639e', '5dcfe5ec41fb3f0de0080f1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d5e05d2b-ef25-4013-a24d-ab22a1e6b323.csv
+
+ID Pair ('5a79de1faa46dd00016b3a60', '5c75471e5eb59f000131c7a4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/92a95acb-06cf-48b6-bc49-c78d972b64d0.csv
+
+ID Pair ('5eb1e9b96c1f4713ed5d0a1e', '5efbe4f0c9f37c1a3b70afaf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5d36ed94-22ec-4635-afc2-98645711b518.csv
+
+ID Pair ('5ea492e3b1b3620a6fee3b90', '5f8e2a9201810e1f2b9f63a2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9ab45631-cba1-44aa-8e56-34f95a0dc699.csv
+
+ID Pair ('5dcfe5ec41fb3f0de0080f1a', '5ea8aea9e641063184658126'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ac263639-1f62-449e-b777-27155af5aea7.csv
+
+ID Pair ('5ee737e98452ec4c9cc1a1f0', '5eef7517c8692d20c3279493'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/edc258f2-820a-4ed7-8df9-e9868f514328.csv
+
+ID Pair ('5dbf9446a3f5cb419e9d28c8', '5e711d9e908b46031e32138c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/af0de835-73b3-4791-b7ec-3698a5cccd84.csv
+
+ID Pair ('59d5888d21977e0001d630f3', '5dcf55f1cc192008cf8404b8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/35d9c472-e6c0-40db-9104-858677fc6b83.csv
+
+ID Pair ('5cb62e9293342300017a72a1', '5ee4a9a018f5a91af3e985cb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/985897df-f738-4d01-9cd1-eabfa1a4c180.csv
+
+ID Pair ('5dae16d241fbb6001160ce72', '5f113ec4c304894ad573296c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9888a348-46ae-4941-a37b-b1955439f958.csv
+
+ID Pair ('5b5e7e643bac1d0001f9bf28', '5f07070d75038e05e9fcf515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8bf369ea-ab22-4723-ba24-caeff2204a9e.csv
+
+ID Pair ('5d42486206811e001ada5b4b', '5f23ff398626c51fdd6c3fb5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/16f12fd9-54ee-44f0-963c-073c4b717635.csv
+
+ID Pair ('5bb6413cb4dca50001df0096', '5f5d699b1b86c05bcf242f45'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3e53be18-2e59-4bcd-a5df-08ac30669ef6.csv
+
+ID Pair ('5be31317d6e8c40001d00d23', '5f50544b526bec1ce4a44f70'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/24be1878-43b6-4f03-b6c1-8ddf08dcc5c1.csv
+
+ID Pair ('5cb60f1eefd4130001bbfdb7', '5eba16aa359030156a6d5d31'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ffcc79cc-cac5-49db-aea5-6cf893e7394c.csv
+
+ID Pair ('5ea6467fe88f00661eb5638b', '5efbd589ceb6b9190882911d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9e11ca71-f442-49d4-a9c0-3c7ba4afa275.csv
+
+ID Pair ('55f5946a32af74001017047b', '5f84093b9b3e190008131671'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f458c2ea-1713-41ac-b586-948176c1ab81.csv
+
+ID Pair ('5d633f7d4b3d9000011fc60a', '5f08916db314750bc9206ce8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/88e7e184-0011-427a-86d9-151a174d86cd.csv
+
+ID Pair ('5ac53367e1546900019c03ba', '5e28ad9b6dbb5608131beb19'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f11d214e-8aec-482b-95d3-044e481dc689.csv
+
+ID Pair ('5ea3ccb9aa7054355ea371b3', '5eb1a905bf6e002bd25a5da9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/030c76ab-9e19-4b78-9a7a-86cd7ba8472a.csv
+
+ID Pair ('558b7b06fdf99b21155f2c1b', '5e06748cdeea2b0515e037b9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b8848e0e-05f2-497d-bf98-5669a71f601c.csv
+
+ID Pair ('5b997597caaef400011da16d', '5e51dfe3618c57215938d7b7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/84d515cd-f635-4cfd-96f1-86cc78963b9a.csv
+
+ID Pair ('5df15bc3361a8506b94f79ed', '5ed17f22e1dc340c98fd6bc7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4f5964fe-1353-439b-9e50-08b460ee3bd5.csv
+
+ID Pair ('5c4af67cdccaa800016b3192', '5f3aead81965e27c4a531d95'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/152e9736-6632-4049-b7d6-58b721f7a146.csv
+
+ID Pair ('5ed74a20ac241e1c4dfeb045', '5f52c941fc18905c7e8f78fd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/99b21bf5-7a13-4969-81b8-824a66bde106.csv
+
+ID Pair ('5ed74a20ac241e1c4dfeb045', '5fa6006c1355231e6094a472'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cfc29ca4-463c-491e-9a43-8642be52729a.csv
+
+ID Pair ('5f29dfe7512c2817f7957e1a', '5f72d964dd42802225ed83c6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1c82d05c-19ce-4d2a-83db-a54021c9196d.csv
+
+ID Pair ('5bf3761862e1bc0001f15cb2', '5f3864a4596925371d23631e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d9e1f5a5-e4eb-43df-910b-d9ae2befb039.csv
+
+ID Pair ('5bdc94f819b9ba000157da85', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/798a58fb-2c59-486b-8fef-1da18e38771a.csv
+
+ID Pair ('5c670a430d80fd00014264f9', '5f3c2648a9ef86a4c10de377'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/37431f1e-124e-44ad-9217-12819ff59589.csv
+
+ID Pair ('5f00cc127086ce2029ae6541', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9c97e6c8-6303-4a1a-a245-01873049ae7f.csv
+
+ID Pair ('5de7b588ff15c2a06658dd1d', '5ec81134ac7d6b2b9ac51453'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/536675d6-80db-4db0-adb7-dfd3c5b6759b.csv
+
+ID Pair ('5c5da579bfe5280001448433', '5f4c3b115080c673d7923c91'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/eaed7cd0-85d8-43d4-a2a7-97d7a062d418.csv
+
+ID Pair ('5e6cade3d92ffb26677dbd84', '5f56b56b0fa1b412025708cf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c7ff1e39-a9c8-47b8-b0fd-f3d176a439c4.csv
+
+ID Pair ('5c6c90bcf4dc2c0001e8d6d1', '5e8b50db95c6e00171fc6151'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ac70f2fe-8432-4ccf-b995-6373cc32b9be.csv
+
+ID Pair ('57950da04a84da00014c5dbb', '5c707aa503f85b0001af8c7b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6e55eb1c-1beb-4757-9b39-36033cf3ff45.csv
+
+ID Pair ('5f23ff398626c51fdd6c3fb5', '5f9c9d259e7c0a17abe03413'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/747bcb23-a508-4662-a525-1c99a35fd71b.csv
+
+ID Pair ('5cb929bfebd17d0017e7f848', '5ecb2895bc80406a12e913a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c2a9174b-bd97-4fb9-98b4-3508d5f4b70c.csv
+
+ID Pair ('5bb6413cb4dca50001df0096', '5f6bd7c0fddb9f153e52cdb1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b7309f85-f361-4eca-85cd-70cc93cc4531.csv
+
+ID Pair ('5e4589f0dc89f106ff742885', '5f07070d75038e05e9fcf515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7dd83cc7-3562-4e98-bd38-ac8a90336a42.csv
+
+ID Pair ('5e4b0189cdf5a6011838a6a2', '5f0b33e16edeb5429793f878'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ed1304b-c8f6-495c-b391-a544ff70746e.csv
+
+ID Pair ('5ceff90683416100197cde83', '5dea76e109c1071948aed0ff'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dec08b86-5c61-42f2-8523-69e9908305e4.csv
+
+ID Pair ('5e714543bb9f870679f01411', '5ed2fa0793788128b41df2cd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ec0fea6c-82b8-4cde-854d-072cc6239c2d.csv
+
+ID Pair ('5dae16d241fbb6001160ce72', '5e87fee4c740a748f50a63bb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/07dcb0b8-bb2b-427e-b0d0-29e03550c560.csv
+
+ID Pair ('56e130548b1c33000a388671', '5efd4df059990518c92eca95'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4ce789dd-cb2c-4ecb-b4c3-406c3f9db052.csv
+
+ID Pair ('5e2be6efe179572183644844', '5f23ff398626c51fdd6c3fb5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ff6acf35-cfce-4d87-b04e-2bf91f1926ba.csv
+
+ID Pair ('57272517e386b9000e3e2b72', '5c82acc04fd379001524a6ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/49090cf7-f049-469d-91d6-e66e4f68059d.csv
+
+ID Pair ('5cc34f64b4a9220015911c45', '5dbf9446a3f5cb419e9d28c8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/80e6c6c6-de9b-42f5-8aba-b7471a744303.csv
+
+ID Pair ('5e82a7d6c17bb79ebe9b09df', '5f59a1b945fc451ff6152886'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ef1966f-a733-460a-8d91-dfe31a832277.csv
+
+ID Pair ('5dd5db1ded7ea4574c7bc996', '5f95dba27ac0f247b0177e9d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e009102e-4f2e-41cc-b9b5-c39dd3f19c09.csv
+
+ID Pair ('5ede3d2ef7c9f9068776c4d2', '5f6b9e2aab8b000def48cc53'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2aef4398-4c93-440c-86a2-561efc102293.csv
+
+ID Pair ('5c228e5c867f660001ad66be', '5f48fc7ff922922cbcb9c25d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/63eb8dfd-eb09-4eb8-9e11-b7ad7235a18c.csv
+
+ID Pair ('5b8597308f1e2600019bbf90', '5f49553539747213d0e5f1ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d86d16d8-026a-400f-9fc5-b98c56f848a6.csv
+
+ID Pair ('56df9a836b4093000bd896c7', '5e7e70c583c34c53f6c643db'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c5972417-388c-4b2a-9218-543268c3ee9a.csv
+
+ID Pair ('5987c9f26ab9880001b5b04d', '5c57d2dccf1cd900018d7226'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9ae602b5-4040-441b-b8e3-a9cae93d5b43.csv
+
+ID Pair ('5977e3867412f8000194e1fe', '5d10d808156091001a74639e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/66768810-879d-4e2f-b5f5-ecc67d298104.csv
+
+ID Pair ('5de59698a2db8951b9955ccb', '5de7b588ff15c2a06658dd1d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0542c0f0-6c1e-4e54-b3df-afa48b19f9b5.csv
+
+ID Pair ('5f15da27044c9b700c9b7432', '5f5fdc58bf88350b1c455de4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8e921771-ab17-4891-9262-56530800ac00.csv
+
+ID Pair ('5d2f054b1dde3600015e43d9', '5ed94132a8b177107d611847'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/035b1a02-b973-47a0-bd65-cec240353f0c.csv
+
+ID Pair ('5f1b2282a3103e2caff2fd7b', '5f1ba4b61d8b7c3adf75d9e0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c6f68636-2c7c-4cd9-8de1-5a2cf7afd948.csv
+
+ID Pair ('5dae16d241fbb6001160ce72', '5ea492e3b1b3620a6fee3b90'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e798ac91-746d-441f-9098-d28aee6066f1.csv
+
+ID Pair ('5b67735c05753f00016b54ab', '5e862e27f569ad0c21028e09'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4f5fd6bd-3aa0-4db3-9d17-4e339e558dd5.csv
+
+ID Pair ('58f0fca0d40252000192f201', '5a79f14a8fe2dc00010593eb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2fbdb5cb-d160-4a13-927e-82b93c4adea7.csv
+
+ID Pair ('5dd2f7403c4937312433cc11', '5ec74aa8015f9f1a3452eb05'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a0631507-f0f8-46cc-bd93-4241f86a30b9.csv
+
+ID Pair ('5e7072e5fb136c63e94f3fa4', '5f440d9f63546316e56a10d0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/933db294-d447-4152-b79a-f102fabf925a.csv
+
+ID Pair ('5bd0d9bf25db7b0001786a5b', '5de59698a2db8951b9955ccb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/10d941d9-76ab-4d06-b9e0-35ddedb28ac8.csv
+
+ID Pair ('5c6f1611922d7a00017cb800', '5ed7c2a9460b76287b2cda9f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/eed245eb-8212-451f-bf06-320da3153b75.csv
+
+ID Pair ('5f502bf5e0375819a32f2e16', '5f514f870e7da937375cdde0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/aef61369-9cd8-4cf2-8f59-6e8dac594ae9.csv
+
+ID Pair ('5be31317d6e8c40001d00d23', '5eefcccaf9461b13feb83c5e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/727612fd-fe1b-4d87-88bb-c2f2704c0efd.csv
+
+ID Pair ('5e24ce20e3c71973d8ac396d', '5e8ccdf9b3423e07b04b4853'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c441f223-ba1a-4fe2-897d-fc3c2e704a82.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5f989fa02b5a611b2df1a305'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ccd75111-31bc-4381-936c-b5a88009fc63.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5f0c61f219803a07239a4269'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9795fef3-f31a-426a-9c5d-e4b5ddd51880.csv
+
+ID Pair ('5cd8d86210887400182db201', '5d618d5b13b88900195548f2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/63f91a31-493b-43e9-9d93-63da67699607.csv
+
+ID Pair ('5c43c90d5aca820001f73f6f', '5ef6743fa4d98d36b3d86694'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/835e4c5f-883b-42f9-8e7b-d121d5d8997a.csv
+
+ID Pair ('5eda93dcca52056b992dc4e7', '5ef6bb87b83f3b000a3f04ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ab93a9d-dc8d-4577-88f0-2591fcffd9fd.csv
+
+ID Pair ('5ce791d77a1a2300188e03bc', '5eaa26c17c3cbc1ae4881baa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ec397cba-60f5-4bc5-ab02-73a2aaa17029.csv
+
+ID Pair ('5e387b36caa8e1000da3f0f8', '5f8e2a9201810e1f2b9f63a2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e2a8df83-6b26-45f0-8d4a-174233968970.csv
+
+ID Pair ('591bc89fb817f400015b7017', '5dae16d241fbb6001160ce72'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e14a9f0-d173-4ba5-b9a4-7e0da15d704d.csv
+
+ID Pair ('5ec453f93ba6b432bdf01d58', '5f9bce73f770af3f314336f1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8610697a-bd21-480e-9973-7da048d82c3b.csv
+
+ID Pair ('5c989ea4c7f75b0001677fa8', '5d961edc1b7e120012c4ca34'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ff52c45-b861-472c-9ae1-10b11df3d881.csv
+
+ID Pair ('5ed2fa0793788128b41df2cd', '5ee4a9a018f5a91af3e985cb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2a35b21b-8134-45fc-8194-0ca3cd292220.csv
+
+ID Pair ('5e454881703c9401c7c3fe4f', '5f481f85c6a7d02c489665f2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c97f8a32-6249-409c-b042-aaed261c3f64.csv
+
+ID Pair ('5e4d9878130d9e1fb88e68d4', '5eeaae03e1959f18cd331cd0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/aa0147bf-1fd7-4690-a994-8d5a31592cf5.csv
+
+ID Pair ('5db25a62299961000fc5628d', '5f823bb0349c5037632a2bbb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/01e64778-2ce4-482d-814c-08360b12c88a.csv
+
+ID Pair ('5e7072e5fb136c63e94f3fa4', '5e88f058524dca58ab60da0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b6988911-c05d-49a9-8805-3d50bc7f0d36.csv
+
+ID Pair ('59296fb2e8a7ff000163f033', '5ec81134ac7d6b2b9ac51453'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/73c8be92-d673-4b80-9a8e-0f0a6dcb00b5.csv
+
+ID Pair ('573bc4fbf3580b000fce0af4', '5cb60f1eefd4130001bbfdb7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7eb00e0d-90e4-4310-86ab-616b4e498765.csv
+
+ID Pair ('593dfb9ea2bf080001ed3b65', '5e4b0189cdf5a6011838a6a2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6365a56e-c7bc-4f08-9828-08537508f71d.csv
+
+ID Pair ('5ee84653635dc301d2f8d5b8', '5f5fffc902adba0e8f3fdb75'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e19df3e-4637-4eeb-8719-715b1f80b36a.csv
+
+ID Pair ('5ceff90683416100197cde83', '5d9d2e421af9ed0011c31894'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e3672109-1f5b-4b37-aef8-97b08fe6e632.csv
+
+ID Pair ('5dea76e109c1071948aed0ff', '5f6b75742bd7e60776191cb4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4e116092-0c94-4f33-b6c5-7a7c7a54b60d.csv
+
+ID Pair ('57237767844581001202947a', '5ee2916b70aa643be19c0036'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b381599d-5420-4148-acb9-403141f5fb87.csv
+
+ID Pair ('5e01ac85617219d6da5ab31c', '5ea3310bf9c4f828f0c909c5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/61b35301-6416-4293-a5c5-fd5d1ece93b4.csv
+
+ID Pair ('5d05767056e71d001863ef54', '5dd33bd8f01cbe3350807cf6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8942bbbe-ac20-48ab-9c7c-c69098c99a42.csv
+
+ID Pair ('5b8597308f1e2600019bbf90', '5e567cd58e4500024e8d096c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2e6ecec2-ee12-4fd2-af36-e5477d3a5081.csv
+
+ID Pair ('5ed5e0276122c5175e4509d0', '5ef4f98e50dc6b12b6476d5d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/265c90a1-79ba-4956-888d-7f27ecb76424.csv
+
+ID Pair ('5ebea06f9d56a105c10f6315', '5f4d92a4584ab6064be44ce5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/de1cb6f3-2285-4cd6-bb5c-81923d0c7f6b.csv
+
+ID Pair ('5ede3d2ef7c9f9068776c4d2', '5efc9e6602650605d21ca962'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/164f6283-d242-4804-96af-b01140c2a8cf.csv
+
+ID Pair ('5c989ea4c7f75b0001677fa8', '5de7b588ff15c2a06658dd1d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dc97a67e-9167-41c4-b7d2-79d6547b0e72.csv
+
+ID Pair ('5cc0911796a3ca00011ddfcc', '5dd671942b033b5ec8bc97b4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/43540c29-7c51-4fc8-8bda-fe8614340c64.csv
+
+ID Pair ('5e567cd58e4500024e8d096c', '5ec453f93ba6b432bdf01d58'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/658ba8ce-5351-4433-9786-020e69923f09.csv
+
+ID Pair ('5ceff90683416100197cde83', '5f07070d75038e05e9fcf515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/91fd5018-5302-4a6b-8699-eb56c370e5e4.csv
+
+ID Pair ('5c8be0dd542fbd0016924f5f', '5d951d9419479d00155e7140'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5fe1c8f2-3ab2-4366-9d69-f76c58aad79d.csv
+
+ID Pair ('5ea6f8960deb82078a6ffb69', '5f3b2b15f5d396257a4cd215'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/500258ba-b356-44ec-adb1-ca95a1d66f03.csv
+
+ID Pair ('5c43c90d5aca820001f73f6f', '5f14c40b8a043d54837e0601'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fe48d51b-6cac-4667-afaf-dad93205ba33.csv
+
+ID Pair ('5ce610802be975001b46f0ac', '5f3ac1732efa0a74f975b1a8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6aa2e640-173d-4b2c-a59e-845d46b6c139.csv
+
+ID Pair ('5e7edbf14a5c605bfacfce70', '5e96a26dc5a849123463f9e9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bef99f27-2394-4d47-a9af-035136a815df.csv
+
+ID Pair ('5c5b8a16d211570001291b11', '5f502bf5e0375819a32f2e16'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b0271140-fb5c-4100-855b-1f4e7c03f28c.csv
+
+ID Pair ('5cb60f1eefd4130001bbfdb7', '5ec81134ac7d6b2b9ac51453'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/efbec81d-6a75-41ee-9f81-c50235743ec4.csv
+
+ID Pair ('5d0a731abf09e10001c3f3d8', '5eeaae5f4c86581c32bf9a82'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2c92dd3e-6e7a-4968-871d-5674790e7a74.csv
+
+ID Pair ('5e8ca66ce6592d0350103956', '5f0293ca91b83b4294d6685c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dee6cc80-0663-4306-9d62-6d06e4c1ed92.csv
+
+ID Pair ('58cc6e1293dac30001d4abc6', '5e7cb742d29f7530898fb99d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8b0ecdda-eb47-420e-8a79-a41e64a40b09.csv
+
+ID Pair ('5e87fee4c740a748f50a63bb', '5ea70fb15789a40c67f9cf04'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4bd7aa3d-2806-4365-879c-20de488bf595.csv
+
+ID Pair ('59877315f8b162000167a2c6', '5ec8595410d64c343d8c7f2a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a11b4483-4d49-4486-8fb5-dd79e7bcdcd5.csv
+
+ID Pair ('5c8f924dbd496e0012a84583', '5f95c1590b160b4597c93a76'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3d05e6d6-51f2-4365-b6eb-c6a8621c3a27.csv
+
+ID Pair ('5a59452c76d1c60001ab20aa', '5e6d6545993427329a35b800'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a5dd405d-7144-4963-9744-b97469ee060b.csv
+
+ID Pair ('5f035993cc8d3253768d9804', '5f39d80f9bbaf517512eb86d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a2b86d8d-f9a2-434c-84ce-a72bbc19dfea.csv
+
+ID Pair ('5f484cef1d9c4630fdf85265', '5f4a4da1575d605c43bef871'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1c0af8fb-1c26-443b-b732-0f6649116972.csv
+
+ID Pair ('5e646abe244a7f1feb0f6321', '5f07c86524cc101f35f443e6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/70dea9ad-baf7-4699-96a3-642508a8f69e.csv
+
+ID Pair ('5da20df461471f0014bb184e', '5f5d699b1b86c05bcf242f45'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/54532b33-dc38-48f1-a002-d685e0de9eab.csv
+
+ID Pair ('5d5162f1b50a1000169da137', '5f75f66541d27f011212af83'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/14f5fe6e-1c37-491d-87a7-4dda9d07966b.csv
+
+ID Pair ('5dd8cb39dba6348743ec0915', '5e3ac9d20d41ad2da023d9ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/31683e36-7c0c-4bd1-93d1-66ce5cb9680a.csv
+
+ID Pair ('5cfbcc1fa7f8940019cd8704', '5e9a331602672c0c3ac47c34'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3066c275-aae2-4b70-b47d-65c4ff1bc409.csv
+
+ID Pair ('5cf942378da406000127871f', '5de79e713cf27970edc23950'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0da3e9ac-d5a5-4df0-abf4-f3eb3fc62788.csv
+
+ID Pair ('5df88caf783225616ad3defe', '5eaa26c17c3cbc1ae4881baa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e690dd3f-9308-41df-aa46-7979ddd87caf.csv
+
+ID Pair ('5d8d29488bb7fa001a59cfec', '5eb1c7ea9d99fc30b502cc84'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fe4a5de5-3b9c-4b6f-8e70-403db8a1caec.csv
+
+ID Pair ('5dd33bd8f01cbe3350807cf6', '5dee44454d7bea4e3f4b44a6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/442dea44-b336-4903-9d01-47c8ca7a9a58.csv
+
+ID Pair ('5cc46571f317fe00154e075e', '5f0e08d6cee7a90b940fb9ab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cfe728db-9f7c-4932-91f2-a0d2b22ea7a7.csv
+
+ID Pair ('5e711d9e908b46031e32138c', '5eef7517c8692d20c3279493'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d0148841-40f5-4441-93fa-f21548ad37bd.csv
+
+ID Pair ('55cb7fdafdf99b3c26ae4d4a', '5eece89d63352e0c327ddb0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/66637745-1f42-48d5-810e-ad7726f2c315.csv
+
+ID Pair ('5e96a26dc5a849123463f9e9', '5eba357c3d72c116be317542'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/51cdede2-7ea8-438c-b79d-245d452ceaa3.csv
+
+ID Pair ('5c47febdc41b2a000183b95a', '5dd324424524e7334967690d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5e184765-66fa-4a74-9c68-410aafe76be4.csv
+
+ID Pair ('5dd3e6b66ca7e73c42b4eec8', '5e31978166f7ac184c52c457'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d8420a38-8b46-44f7-8182-a2a65d16342f.csv
+
+ID Pair ('5d5162f1b50a1000169da137', '5d54d3560c5b0400174b3c81'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5f3c5c14-1280-48c4-b6a5-97437ea68c94.csv
+
+ID Pair ('5e79340b6d9a624e3f39586d', '5ebaf9c3d131ca09d7a08a47'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dc7283c5-28bf-4aaa-950b-de4ba9e1d18a.csv
+
+ID Pair ('5a7b2b52000dab00018c402b', '5a91877e777df200015fa0f5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a66d648b-650a-42e9-b8f2-26ef0ab4a98e.csv
+
+ID Pair ('5c75419284e176001254c7a5', '5e9e884f0c8e5e25f51c6d0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/48f6f030-7973-4888-ac2a-0099e8636b88.csv
+
+ID Pair ('5e606b1eaf84e83c728748d7', '5e6e918521be18444d596213'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ef72bdf-4e7a-461b-af13-7fa3c432a57a.csv
+
+ID Pair ('5ee672f87fecd30400e752f1', '5ee6e0d2ccd83446a3611dd3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/06d767f9-e1f9-4677-8fe6-40ca4b91e1ee.csv
+
+ID Pair ('5d36600685d1d50001affacb', '5eb10e1b6e2f921d6d6567dd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4a104536-429e-495f-a03a-7aa87467db1e.csv
+
+ID Pair ('5a9493ce873cda0001dc6dfb', '5e71210f2471fc03f2a62102'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c102ec15-67f6-4b92-8c4e-e7081a42b1f6.csv
+
+ID Pair ('5c738ffc61dd7e0001a16a72', '5f0b33e16edeb5429793f878'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/128f15b9-a6e4-4575-8b96-163ff189ee8e.csv
+
+ID Pair ('5f6388bf9ae5ad07ba1a0173', '5f92e13ff89ab603071b6125'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/32adb5d5-910d-4547-972a-f5d0b795c689.csv
+
+ID Pair ('5d61798ee6c26f001cbe2356', '5ea4a34e4085724768be21a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/67ab7641-8772-46ec-a23a-ababb9d194e8.csv
+
+ID Pair ('5ed1e0f7ba6548028fc64722', '5f51265c4873f23082851a5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/29550aa0-a640-4c7f-8664-546921f2a387.csv
+
+ID Pair ('5dbf9446a3f5cb419e9d28c8', '5e7fbf90e06daa01664bc717'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/00b410f7-8b5f-4404-8433-0fb8c4be8f62.csv
+
+ID Pair ('5deaac8dff7f711d9032fa94', '5ed8748d4dbf2e3863002f76'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8ee74838-737b-4093-b4e6-424dd7f4b347.csv
+
+ID Pair ('5dcc2827b1dabb8be6a9048e', '5efe33b14177723069d82cfd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5d802b9e-b047-450a-9695-69c10a96699f.csv
+
+ID Pair ('5e6cade3d92ffb26677dbd84', '5ea25b82a46065174c689daa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/11d12d5d-4913-4134-a768-79d47cb72374.csv
+
+ID Pair ('5edf0bcccf71bc1c0b806934', '5f616e6d5399870fad4c4d17'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2faec4dd-2885-46f3-9796-d4b152a75f9b.csv
+
+ID Pair ('5c670a430d80fd00014264f9', '5ed442ea258f2e4098c6b153'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/247fa9d7-7636-4faf-8620-b0e16c305909.csv
+
+ID Pair ('5ed944592219cb116588a9c7', '5ef6d363d195c23ce977b6c4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d777011c-80d2-4345-8977-e472d8ef479a.csv
+
+ID Pair ('5c0023fb2213be0001c2cdde', '5dea961cf4c5e11bd9c4058c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6fe76b71-8f31-4b6f-9347-557cf88d18a5.csv
+
+ID Pair ('593dfb9ea2bf080001ed3b65', '5d8de6eaafa2c40019f2375e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7b88a1c0-eeb3-4d76-9aca-c9ad83198b96.csv
+
+ID Pair ('5a198755f2e3460001edc5c9', '5f070947ea1cc729b610c462'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4e458f60-1fa1-4584-aca1-5932319e5ba9.csv
+
+ID Pair ('5ea4a34e4085724768be21a7', '5eece89d63352e0c327ddb0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9a227233-3252-420c-9928-c3ae79fb9205.csv
+
+ID Pair ('5dd32a633683dc33b2b29909', '5dd671942b033b5ec8bc97b4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/aa86f543-cae9-4594-a8be-cd0c059b1f31.csv
+
+ID Pair ('5c91d45264d5c100171ea8ab', '5f0b33e16edeb5429793f878'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/abda9276-8802-47a7-b2bf-64f8b417d543.csv
+
+ID Pair ('5d09658d561a350001d62540', '5eb29a3db97d6b0008d24a1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/07c818b1-0fe0-4c8c-972b-184da443fa5e.csv
+
+ID Pair ('5e1545d9b1fb05b6369d13e8', '5f8b1c0849eea7208ee49a38'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/30a5a4ba-5ca5-465f-8a8f-cda3d7737662.csv
+
+ID Pair ('5c270d8f2c45d400014909e8', '5eece89d63352e0c327ddb0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/339012e4-ada1-4c88-839d-08a6842b5903.csv
+
+ID Pair ('58ae59babb9e0f0001acb414', '5c284e0970d93a0001211e16'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ed4b674c-cace-4ce4-957f-d11b7da2ba6b.csv
+
+ID Pair ('5b97f8988ae8150001c7a887', '5e91350e16b81046df5dcf52'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea612d62-2a6e-430f-837a-c65a7e235d2b.csv
+
+ID Pair ('5aeb922a75deca0001624d23', '5d81746b784c7600198580ee'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e27e9207-0ab9-4e6a-9aa7-d57ca52d683c.csv
+
+ID Pair ('5a73899f9cdd1800017786f0', '5c4af67cdccaa800016b3192'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/eb215077-bbb6-45ee-923f-345783358eee.csv
+
+ID Pair ('5e6cade3d92ffb26677dbd84', '5f1b2282a3103e2caff2fd7b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/01a4c01c-cf0e-4f37-ab2b-641bb604af30.csv
+
+ID Pair ('5d36600685d1d50001affacb', '5dea5ba4446c901777bde897'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/77866cf6-b24f-4b57-8a44-a7b581e0bc30.csv
+
+ID Pair ('5aea85ab831584000180a1f6', '5b836aa6413ac100010d165c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/40d9ff29-4edc-4570-b980-fcdf70bb1629.csv
+
+ID Pair ('5dcb55b60133ef83a90f85ac', '5f3a06ed07aaa21cd8a2e3b4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/565376e1-b61b-4327-976b-c548ea3b4708.csv
+
+ID Pair ('5e53036cd91a8232a99e60fb', '5e8727fb90c37002d97ca052'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/56ee9fdd-486c-4709-82f7-485322ed4a05.csv
+
+ID Pair ('5e16c36093ab8bc8c1c27f35', '5e6a418620befe00096983d2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4ecfd9f7-3819-424f-9e19-b7c39281506d.csv
+
+ID Pair ('5eb86384ed81047c65376aea', '5eed8bec94fa2f1be77c189a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ff06445-48e2-40e6-8833-0d73489714a9.csv
+
+ID Pair ('5ae74788d5ec5e000175ea08', '5cb929bfebd17d0017e7f848'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d20a0292-b249-4292-810b-09d04770e3b2.csv
+
+ID Pair ('5a135875074b1900012527a9', '5f9ebe0aef3e674711654bab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/42ce8122-bc6c-4c25-8e90-0cb2f2406432.csv
+
+ID Pair ('5c0595bb1a20110001e9f1e1', '5d9be30b027b5602c520d93b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/67488a81-9de6-4c8a-be03-817c716a3912.csv
+
+ID Pair ('5c27e76978fad500019328cc', '5e77116039c4412820356b26'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/49c1c576-58c8-451a-8ee3-07aac2149127.csv
+
+ID Pair ('5afa5252672ea800010d97e6', '5f0df6c9b64b5107b88cbd4b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d5c3f6cb-66d5-4aa1-af27-5df5d6e2c8fa.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5ead6f256fef94028e07d655'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea87629b-fa15-4d2b-a137-188aa19c4588.csv
+
+ID Pair ('55cb7fdafdf99b3c26ae4d4a', '5e71556788152e079f80b73b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bcc8e84d-65f7-4b6c-ad9a-dfb33de44872.csv
+
+ID Pair ('5a198755f2e3460001edc5c9', '5b4983840753d30001db8ab3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/72834788-d7ec-463b-873a-daac1a8dc352.csv
+
+ID Pair ('5f0298ad4a1b58435567e7d4', '5f17909c1cdb3701aad2d11c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0bd4dd2c-1cf0-46fb-87d3-a88b1de310a6.csv
+
+ID Pair ('5c7e91c1973c990016ea72b0', '5f5128258dff8f30b0c3c1eb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/94cbc2b3-ba08-43d1-83aa-2c1100f34385.csv
+
+ID Pair ('5ee6511c69b98d0129d62f27', '5f07ec0ec025b5421c3e3379'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b5503a34-8f3c-413d-b7a2-481b4942783d.csv
+
+ID Pair ('5cb62e9293342300017a72a1', '5ebaf9c3d131ca09d7a08a47'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e6ff4cfd-d3e1-464f-964c-e610fea7015a.csv
+
+ID Pair ('5be04ea54a5e53000157ac4f', '5f0c61f219803a07239a4269'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ca9b7cd-9c68-4803-8d13-f3e6c7d24f43.csv
+
+ID Pair ('5be05da9b5be300001e54be5', '5ec00f62cf12be40ea6fe344'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a8fb742b-2c7e-4e8e-9242-c4d8e1433650.csv
+
+ID Pair ('5c4534332b1bda0001f5791f', '5d0fb996286e1700010de2c1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f00d9688-27fe-45ce-9d26-e38f729e8641.csv
+
+ID Pair ('5adfa230f6b58c0001fa8cb1', '5c7e91c1973c990016ea72b0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6f20129e-25be-4f00-bdec-6f8e2e0f7147.csv
+
+ID Pair ('5d6807f9778de5001a120d9a', '5e322c53287816210062d0ac'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ca0bc57e-26f3-4800-b6f6-ae923dc8f39e.csv
+
+ID Pair ('5bf3761862e1bc0001f15cb2', '5ee3c4bda54f6807aced1eb9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ca462a1-d50f-4219-be29-16b4151a3639.csv
+
+ID Pair ('5f12a44dadcb8421418b6a80', '5f5128258dff8f30b0c3c1eb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8ffb9f08-20e5-4edc-b365-da2657115f1a.csv
+
+ID Pair ('5df40839a1f3612e51ff72bb', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9e568fdb-cf02-449b-ac55-73ea9f54c89d.csv
+
+ID Pair ('5aa61dd36475f90001a05dcf', '5ec8a23062738338f917576a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7d17fe31-bd13-4f3b-bedb-ef44bf5bb5c6.csv
+
+ID Pair ('5f5127e45185c93094565dcd', '5f557591aa1c4e950ba02f01'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/18efe569-a8ea-49fb-8776-aa4da710502c.csv
+
+ID Pair ('5c7a4ca80b94ca00164122a1', '5f6b75742bd7e60776191cb4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f63a30a5-effc-43eb-a257-0029f48746ce.csv
+
+ID Pair ('5c1a4a6240df6b0001880308', '5c4ac37abe23f50001e7f8b4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4652239e-2e52-4454-bc57-ac93467deae6.csv
+
+ID Pair ('5cc604bd3bbb120018a3c0e2', '5e0acbffdc79bd35336ed6e0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/67836c1d-1334-41a0-a33a-4f788e8b6fb3.csv
+
+ID Pair ('5d4a1c61be2a040001beaedb', '5e9679a26b86610fdf2c766a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7ad26b7e-0f5a-4c24-8712-2c44f113e97b.csv
+
+ID Pair ('5eaf77532b6845665ddefd09', '5eaf89868dc798686228174b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/deb20645-0818-4d86-ae9b-267463c14a9b.csv
+
+ID Pair ('5e52af8dd120e7000bc35826', '5e8ab4b84d3d6775b807e9ba'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/882bdd3e-4def-4144-a5b8-adb69e81a7e3.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5ee70f2038ee524987f6e9cd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c0c54a77-1d33-41a4-8e13-92a4840e82b8.csv
+
+ID Pair ('5ca7a84f6c0307000114930b', '5d1ff768c1dc1c0016162bf6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/047ad63e-bcb7-47c8-9e54-f53572e1ad5f.csv
+
+ID Pair ('58ac890076c5b70001662993', '5f8bbce9ee73572fb4ee63fd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e674360e-41f4-4a3e-9fc9-2f083144523c.csv
+
+ID Pair ('5dcfe5ec41fb3f0de0080f1a', '5f499b471c384e50e424e5a9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/11cb78ed-49fb-4634-8a7a-3c59109563b5.csv
+
+ID Pair ('5e6a418620befe00096983d2', '5f113ec4c304894ad573296c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2699024b-93f4-48b8-ac08-3012274a47fa.csv
+
+ID Pair ('5f469dcf5fcb5d0355771013', '5f5a6c23009333128f6f7d82'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/75ec8199-4125-4465-b1f5-148e7cc557f4.csv
+
+ID Pair ('5ea74ea1fb3f711081d6763c', '5f7e700fa9c86614bbb5343a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8287d05f-f9d4-46d8-bb41-6a2e7b46987b.csv
+
+ID Pair ('5f29dfe7512c2817f7957e1a', '5f6be2474140c215c8ebbe52'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2f65f772-5329-4e5a-a7a2-3df21fb73933.csv
+
+ID Pair ('5d38c604b3126d0001fbed6e', '5ddf58d87af661ed30fff14b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7366a7c8-6877-43ab-851f-ec30c95b9b66.csv
+
+ID Pair ('5d338bb02381b7001761694e', '5f08916db314750bc9206ce8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/68a27e9e-2c9d-49ac-ba58-9751d402a84b.csv
+
+ID Pair ('5e4589f0dc89f106ff742885', '5f07ec0ec025b5421c3e3379'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bd64f802-6d27-4377-9e91-821a58f50fe9.csv
+
+ID Pair ('5f5046b65bd4a21aab7422cd', '5f557591aa1c4e950ba02f01'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6fdd1fc5-e185-45e4-810d-bd8fb8b82490.csv
+
+ID Pair ('5f26378609aca228dcfd19fa', '5f6388bf9ae5ad07ba1a0173'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ead2e5ec-472b-4902-85ab-564b0636572f.csv
+
+ID Pair ('5deb1865986140241391d84a', '5ef6d07be683903cd5ae171d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c33d3ce7-c68d-4c13-9e1f-710e7a6c7a53.csv
+
+ID Pair ('5e1bb75a8e55e13e8e848319', '5ecb2895bc80406a12e913a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ca6ec03c-bce5-409a-b1f8-b315e144f413.csv
+
+ID Pair ('5eaa287bfb0fca19f4306de9', '5f978c9948915015fb3bd00a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/afe0de25-4357-42c9-aa85-9736da39c1e0.csv
+
+ID Pair ('5d54d3560c5b0400174b3c81', '5dd340e3e25acf34bf91032e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/274f653a-066f-42ee-8ea6-ac84d739cfe1.csv
+
+ID Pair ('55f5946a32af74001017047b', '5d7fd2a5987f70001602d95b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a58bf2c6-e253-4051-b83c-58300e99a030.csv
+
+ID Pair ('5ee9d0dfab4d21000ae469c7', '5f72d964dd42802225ed83c6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dbb31557-4fe6-4ecf-be92-1d3ebd22e86d.csv
+
+ID Pair ('5e7fefe06c12706d47e35211', '5ea75e57fe8e7013dd8c1224'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/88c90246-2d1a-4c6b-b84d-abde34a8cb0f.csv
+
+ID Pair ('5bf3761862e1bc0001f15cb2', '5f6b75742bd7e60776191cb4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8352c39a-37af-46ed-9b20-801a5656eadf.csv
+
+ID Pair ('5d250aa62bf4a600012a0c0f', '5e6018dc11009135c2154ede'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ec4460de-5136-4a67-90f1-a8cde16266c0.csv
+
+ID Pair ('5a49d6a06d85f80001c25bc4', '5a79f14a8fe2dc00010593eb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0203bb21-da17-416b-8e2f-018b99689616.csv
+
+ID Pair ('5e68dfbe9918b20349f76035', '5e7cf03fea45cb369b402703'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/61f439d4-55ca-482d-b78f-21ed14af9912.csv
+
+ID Pair ('5e3c4f807635c2012090dc10', '5e88f058524dca58ab60da0b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7944f706-b354-4953-9a17-9ca60a5d6d16.csv
+
+ID Pair ('5f557591aa1c4e950ba02f01', '5f74c1ba1150ed0d689c831e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b0ad0856-1474-4535-ab8e-5c27b5601cc4.csv
+
+ID Pair ('5f0b33e16edeb5429793f878', '5f1ba4b61d8b7c3adf75d9e0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f0f5978d-e055-4887-a480-a6a75546ec28.csv
+
+ID Pair ('5a49d6a06d85f80001c25bc4', '5acba4a15cd10500016280ca'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3b187562-d53d-44b1-b8d0-2c6dd7cb08d5.csv
+
+ID Pair ('5dab7683c514d8001730ae4e', '5f07070d75038e05e9fcf515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8e00da37-7586-4718-922e-feac93b75553.csv
+
+ID Pair ('5caaceabc3c36a001557dd8c', '5e857e9acec05016fd59b045'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d1075180-cd5a-45d0-91cb-cc4a122184dc.csv
+
+ID Pair ('5efc9e6602650605d21ca962', '5f0e08d6cee7a90b940fb9ab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d838bf8f-c9c3-4524-b126-68d4da70eb1b.csv
+
+ID Pair ('56e130548b1c33000a388671', '5e2721b01160079464059b5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6869191b-8311-44a8-8252-0ee12a1ef3ba.csv
+
+ID Pair ('5e83fa901998d415bd2e5eb3', '5f1293fd0e75a71ff5a9d088'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fa720f08-9b4a-4fb0-94e9-8cae8d24a5b1.csv
+
+ID Pair ('5a73899f9cdd1800017786f0', '5e121b2b82a955890a9b3484'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b2afb6c2-6049-4861-88a5-f0aeba68b5c8.csv
+
+ID Pair ('5e454881703c9401c7c3fe4f', '5e7a0db8588326011907fb6a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ce2763c2-40e5-4951-90e9-fd5adfbebcea.csv
+
+ID Pair ('5eb1e9b96c1f4713ed5d0a1e', '5f65597823696e0e9bd8f63a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dea8799a-4d4c-432a-8694-0a92029d90b9.csv
+
+ID Pair ('5ec5a705a9b68d5f1f482ce5', '5efbe4f0c9f37c1a3b70afaf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ca0e9f0d-3631-407d-96d1-7324ebeb6716.csv
+
+ID Pair ('5c0017c8f4fb890001d68650', '5ed98dc98d52355330659711'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6cb715c8-2c4a-4dae-a47e-5d0b3108f4c8.csv
+
+ID Pair ('59ad6f1e09709e00013c2ba5', '5e9115dde9961610d06e08b8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/54d711f1-f836-49ea-b61e-cb61842a8c49.csv
+
+ID Pair ('56db4c217dcddf000bd5853c', '5f469dcf5fcb5d0355771013'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fbfd0f89-900a-4dc8-aa20-1dba94b19ceb.csv
+
+ID Pair ('57f6aefc42bfc700016ab1e0', '5f1e2d97255c767dbdd67c86'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b0043464-7bb4-49c3-96f9-fe49067858c3.csv
+
+ID Pair ('5d96fe713cc967001852334f', '5f6dc2d7fa66e824dbf70d24'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/92c66875-8a3c-44f6-9356-8537655417db.csv
+
+ID Pair ('5e8b9c7054a5cc07dd6e174d', '5eb9af967fbf4b0d17bbe946'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9c512190-7d6d-4425-88a5-6a6179ba2483.csv
+
+ID Pair ('5e322c53287816210062d0ac', '5f3a06ed07aaa21cd8a2e3b4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/05f15eb5-1fe9-4407-8006-bbec9814c2a4.csv
+
+ID Pair ('5e097142864020244036e40d', '5ea3310bf9c4f828f0c909c5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a6f97713-f548-4833-9f9d-62f25dc91a44.csv
+
+ID Pair ('5cb929bfebd17d0017e7f848', '5f00cc127086ce2029ae6541'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e82562f4-0dca-4356-83f4-11753a790e79.csv
+
+ID Pair ('5e5593e29a302e59cb575f46', '5e8b9c7054a5cc07dd6e174d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/46d14a01-720f-4d43-a00a-16e8a34835d4.csv
+
+ID Pair ('5c989ea4c7f75b0001677fa8', '5df11a727f08ed028418fa62'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f91c6e72-a099-44c6-bc79-5d6c01b1fa27.csv
+
+ID Pair ('5a68bd3463394a000155c9e7', '5d1e943542ea95001a078e22'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c06890a1-e018-4a0f-a4d6-93970fba12a8.csv
+
+ID Pair ('5c3a34eebe1ddc0001aa35d6', '5f51265c4873f23082851a5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb5e4872-22af-49fb-a331-0cfe03ce8090.csv
+
+ID Pair ('5e3f6b251d15101c5251d8b7', '5eb35a554ff34414ebb41827'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9fe28434-f888-45db-9294-c2db96be095a.csv
+
+ID Pair ('5ee2916b70aa643be19c0036', '5f7e700fa9c86614bbb5343a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/03567661-8004-4986-82d5-a32582ed9a6e.csv
+
+ID Pair ('5e7cb742d29f7530898fb99d', '5f4d92a4584ab6064be44ce5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/680827e2-b20a-40e7-9b6e-adf01595b954.csv
+
+ID Pair ('5ae74788d5ec5e000175ea08', '5f8f5b679cbcab1b8b064970'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/65b9bc57-6206-475d-91ec-c5696259c0d4.csv
+
+ID Pair ('5949f3a2833f6d0001623eca', '5e59aa8dd3e2d31bb670008b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f6931905-7562-44a1-bb06-2513faa16b47.csv
+
+ID Pair ('5ee3c8f2eca1a2085413c9d5', '5f4f29b8c154ed17df64546b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fd6bac90-e8ae-4d74-8c1c-786cebd686a8.csv
+
+ID Pair ('5cb60f1eefd4130001bbfdb7', '5f4d2156f727e10c3c2c4a35'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a4efa776-d3f1-4a0a-9135-3b6600164311.csv
+
+ID Pair ('5c2805401d4eb70001177bfc', '5f8bc33039724030231214bc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fc70af18-cb2f-4cb6-a7a0-7a6809511e3f.csv
+
+ID Pair ('5d1aadf961a40900171f6931', '5ed1e0f7ba6548028fc64722'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f769b511-8208-45ad-a2a2-20fa5c55ab13.csv
+
+ID Pair ('5de7b588ff15c2a06658dd1d', '5f6b9e2aab8b000def48cc53'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea7de670-b567-41f3-91fd-46447acc4f2b.csv
+
+ID Pair ('59e18a4fe75b450001a69007', '5cbf7734aae1180017942e45'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc7e2c9b-4435-412b-a9e8-78fe86437610.csv
+
+ID Pair ('5a3dfbbcdaea400001ac1adc', '5ea89ce6f0ff073086c282f5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ab64a202-a952-4ceb-94b0-42fcc78e752a.csv
+
+ID Pair ('5e02285cac9e16dcddb845ef', '5ec4413c7bd12a11f5d49e04'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f25ff7b8-fba1-4e4b-a1bc-9d9ae5693d27.csv
+
+ID Pair ('5e432b707546fb1cfcd9e0b1', '5ed5ac56ee608714bb21075d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/71f24b04-6488-4601-a739-741e402bcc3e.csv
+
+ID Pair ('5869dec37fbbcd00013974e2', '5f4a7225cf944c08a81adca2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d92f6f54-ebb5-42ec-826e-a0916c2a8812.csv
+
+ID Pair ('5e13542bc12a3699bbdc8753', '5ebcd8fc55e67d14203d0fde'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f2b4fc5e-f3f1-4dd0-b02f-0b46c3a22a37.csv
+
+ID Pair ('5f30841ff614014e92784605', '5f657048f1af6f0fac94a852'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/07b732f9-a9e0-43e9-85a4-263a6d78af0d.csv
+
+ID Pair ('59877315f8b162000167a2c6', '5d8de6eaafa2c40019f2375e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/789c643a-d04b-4ddc-a1a5-9cbd87175430.csv
+
+ID Pair ('5c5c76a0bfe5280001447999', '5de40feb61872d000d8803ff'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/06a5a69a-362d-4947-b16d-d1d09dc075ec.csv
+
+ID Pair ('5b5e7e643bac1d0001f9bf28', '5ee91d6e634e8e1290804250'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cdf464bc-8e3d-45a5-995c-647c564b6acc.csv
+
+ID Pair ('5f3c2648a9ef86a4c10de377', '5f469dcf5fcb5d0355771013'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8fa48307-dc73-4a67-96ed-85b73cf8f8ea.csv
+
+ID Pair ('5b997597caaef400011da16d', '5eb3137a95eefd0eb9985c5b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/25262e9d-0157-4bc2-a7aa-ce0f1509e075.csv
+
+ID Pair ('5e68083669f4cf0c05439f94', '5eccfd5e040498000acbab5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/05aa5dd6-77ee-454e-ad3d-1e34b0d0b62b.csv
+
+ID Pair ('5bfcb5e3aa5fa30001364404', '5eaf5e17fc65f76590f73519'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/58c9970b-5e5f-4699-ac85-a34da9ddc121.csv
+
+ID Pair ('5e387b36caa8e1000da3f0f8', '5f055b6ca28292863f750383'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/167471c0-9faf-4d4d-b9c3-291e859d3dcd.csv
+
+ID Pair ('5c6d460ec3aa150001145611', '5e8727fb90c37002d97ca052'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e3717831-71e4-47c8-8069-e4efc1e0e8c4.csv
+
+ID Pair ('5aeb922a75deca0001624d23', '5e2d9faa72e2fa39058e5b4a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b7363a15-2b70-404c-8456-ff1475f5db73.csv
+
+ID Pair ('5d42486206811e001ada5b4b', '5f400d4a51a8cd1011b37455'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3441fe43-ea34-45ae-855c-bdcf1151406e.csv
+
+ID Pair ('5aeffc6e0ccc2e000185aa28', '5eb05058661fe60d7601edde'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/866d180b-4e1b-4155-97d1-a9cdfe5faf28.csv
+
+ID Pair ('5b97f8988ae8150001c7a887', '5f71eef2e138fe08fba1d131'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e2625bba-6a92-41db-80d9-699b9d7329d1.csv
+
+ID Pair ('5a79f14a8fe2dc00010593eb', '5dab7683c514d8001730ae4e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/59bb81e4-9c3c-4b4d-8343-5f7c5f3ab9d5.csv
+
+ID Pair ('5ebea06f9d56a105c10f6315', '5f40b04fc9ed761f282ca31e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/73f2430b-2422-4776-a643-b0794a21827e.csv
+
+ID Pair ('5eef7517c8692d20c3279493', '5ef6bb87b83f3b000a3f04ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/142c436c-0d8f-49ee-9725-291486519f67.csv
+
+ID Pair ('5d10d808156091001a74639e', '5eee262c7da4d228a43a4027'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/acea2afd-f35b-4aba-a9bf-984e8dbef6c6.csv
+
+ID Pair ('5e1545d9b1fb05b6369d13e8', '5e685de0490eba10cf5348af'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c82d9523-5682-4b2a-bae0-0a53addeba20.csv
+
+ID Pair ('58ae59babb9e0f0001acb414', '5e7e70c583c34c53f6c643db'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/87d78bb4-e2b9-459a-a165-191289a578cd.csv
+
+ID Pair ('5e6d6545993427329a35b800', '5ef6d07be683903cd5ae171d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ab4cc6e0-e097-421d-856e-7b37b519f872.csv
+
+ID Pair ('5efd41a487c4ec1945330e9a', '5f1d266c6f7d7f62a219fade'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4a348e90-7a79-4939-817f-f478f452da40.csv
+
+ID Pair ('5aa61dd36475f90001a05dcf', '5eee2f5b6a22952a2bce82fc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7ab498fa-9f84-446c-9f1d-daa5b60a8c71.csv
+
+ID Pair ('57d0badf28d5250001bdd9d2', '5efc9e6602650605d21ca962'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cef39ed0-434d-469e-a8de-c45bded68685.csv
+
+ID Pair ('5e7fbf90e06daa01664bc717', '5ed98dc98d52355330659711'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2f72249c-39e1-4aab-a942-200e3ae2424c.csv
+
+ID Pair ('5df58b28ecb3ea3ed1ceea37', '5e4b0189cdf5a6011838a6a2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b56b61b8-f647-4937-be0b-e5f0ff776d5f.csv
+
+ID Pair ('5869dec37fbbcd00013974e2', '5bd086bbc3b40e0001df9551'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e606ba1-3721-4da1-b721-d2530c1546bd.csv
+
+ID Pair ('5ebbfc3729e14e0372002deb', '5f070f6f0b00e807015e68d4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/46561ffd-6a0b-4958-b158-8e1d3cad91e2.csv
+
+ID Pair ('5a73899f9cdd1800017786f0', '5edcadb5e81cb9000c4b07e0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/17e0d586-466b-4911-903d-eae6de438b55.csv
+
+ID Pair ('5dea961cf4c5e11bd9c4058c', '5f04797c88d91307286d6379'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1049c59b-7332-457b-8e5f-0ef9d0792719.csv
+
+ID Pair ('5d6807f9778de5001a120d9a', '5df58b28ecb3ea3ed1ceea37'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d2b1e4eb-2355-4ec2-b633-d15426fb6a4a.csv
+
+ID Pair ('5f4a7225cf944c08a81adca2', '5f4c17256e656770da1ff9ee'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/81c7bd01-7cbd-43e5-ab62-53e24f3ccf7c.csv
+
+ID Pair ('5e921aa6a9e4ef549f6aa4f1', '5f2226b52841bb6c1e759c13'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d.csv
+
+ID Pair ('5d4c7ac3e8ec490018b0050d', '5e67b5c4a027430517877069'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6147bbf7-b883-4cb8-b934-d305ec927d7f.csv
+
+ID Pair ('57950da04a84da00014c5dbb', '5d30a875ad3457001743fbc9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/54a86d58-43cb-4c78-b967-de4f865f2006.csv
+
+ID Pair ('5c0023fb2213be0001c2cdde', '5df15bc3361a8506b94f79ed'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d36359b7-0195-4467-a60e-8a2cb219e077.csv
+
+ID Pair ('5eb2f1a1ce5ba10ab2c0a042', '5ec6e4ebdab574105b1bf4d9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0159f2d4-f6db-46f8-b7c6-96a3df97b246.csv
+
+ID Pair ('5e6a608ce62ce1000c940212', '5e9d549e36f025000a0ddc25'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7bcf6ed5-b8f4-4575-a8b1-ae26d37d45e9.csv
+
+ID Pair ('5df58b28ecb3ea3ed1ceea37', '5f9dbe7b71894b333e8722f7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a0fa52ba-5843-4519-beb0-57ea126843c1.csv
+
+ID Pair ('5eb06b5c438b1810fe2e58a2', '5f4a4da1575d605c43bef871'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1a4f9ccc-8bac-4733-802d-b93c2781302d.csv
+
+ID Pair ('5d2e4fd16adc630018df841c', '5f48bc9bcf3436245e79a2c0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ee19d0ea-462c-47ef-888d-ac3254113e37.csv
+
+ID Pair ('5d96203d74f4a000159a8c58', '5f53d12e8401650d33179059'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1051ef33-9361-41e2-89d9-46d4eb851508.csv
+
+ID Pair ('5c114210280a8200019d7b1d', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/278c95fb-185b-4fcd-979a-99c8b55dca30.csv
+
+ID Pair ('5c2854db89f035000174b3d0', '5e5dddabde7bcc0f4e431817'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/eeb198b2-7fa5-4cbd-9ca4-4ae4195c23dd.csv
+
+ID Pair ('5a127fc7c259f30001766641', '5aa61dd36475f90001a05dcf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2ec76af8-c231-488a-95bf-4269bef6996b.csv
+
+ID Pair ('5f3b2b15f5d396257a4cd215', '5f616e6d5399870fad4c4d17'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7463ac49-ae39-44f9-8a77-7d94ddf0a46a.csv
+
+ID Pair ('5a70d87e9cdd180001776440', '5dd406d9c23e0d3e6dacc034'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dbbf2d8f-eaba-478c-bf32-330620a4b4ee.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5cd8d86210887400182db201'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/377bc163-b127-4b18-9333-10c8ae16fb96.csv
+
+ID Pair ('5c35101dbef9a20001e323f2', '5deec7e78b5f8b5683c0355a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/263fc615-bee8-48a5-8a1f-28bff46ec228.csv
+
+ID Pair ('5de5e8e5a1a3fb572da9cce5', '5e857e9acec05016fd59b045'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bed8e4f0-fcc5-480d-914e-41059d6af882.csv
+
+ID Pair ('5dd4070a57a7e13efe25534a', '5e730aa954a7b42617d99c5a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/52519067-92a6-412b-bd86-d3a3836e0ac3.csv
+
+ID Pair ('5ea91e89257581388e79adc6', '5f4a4da1575d605c43bef871'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/89a5a032-cac4-4c02-8dce-9ef2f156475a.csv
+
+ID Pair ('57656f6c2bfddf000125cce5', '5d5eeb06d8bcde00162d73f1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/46f8e9b8-f80a-48cf-90a0-2e29908202c0.csv
+
+ID Pair ('5f04797c88d91307286d6379', '5f4e391f5dbb441153a43289'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8013339f-3154-4547-a791-42df23095ceb.csv
+
+ID Pair ('5ee9d0dfab4d21000ae469c7', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9941102b-4c0c-46cd-a4ef-9c386b8dfcff.csv
+
+ID Pair ('5ced8f96a726ed0015d31452', '5d633f7d4b3d9000011fc60a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/67a84a1f-e628-40d8-a000-baac829fd25f.csv
+
+ID Pair ('5ddef2e6929d5de6f1050f1c', '5f482b0da1cde52de45f174c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fb7c8d13-75c7-4a31-8519-7e03d311bbe5.csv
+
+ID Pair ('5f00cc127086ce2029ae6541', '5f4d4ad0fdcc2b1371ceec98'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5fff5771-6673-4882-8ac9-2404c15b7451.csv
+
+ID Pair ('5c1a4d7d1aea120001fdd685', '5e83fab3af601d15b6fef5c7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7c35d830-2cc5-487b-9ca2-4385fbb38e86.csv
+
+ID Pair ('5c670a430d80fd00014264f9', '5dacf0bb8f8b6800114d9013'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c856dd05-9593-4c6e-9ee3-2676d15618d2.csv
+
+ID Pair ('55ed87f0748092000baa9a0b', '5e53f934158f1d3e9d2d761e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9d35eac2-723e-4359-bf7b-13061d713517.csv
+
+ID Pair ('5b5e7e643bac1d0001f9bf28', '5dd3e6b66ca7e73c42b4eec8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8496793c-0906-4d4b-b6f5-2dce66cfee2c.csv
+
+ID Pair ('5f07c86524cc101f35f443e6', '5f18fa06ade41e1406c07a34'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0e9c68be-efc0-40cf-8a9e-06f818063cb9.csv
+
+ID Pair ('5de1ef4ecb1b08240f97671a', '5dead51bb48fa7200b3d0dd8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6b1afe9d-2622-4517-b4fd-2d89d3688421.csv
+
+ID Pair ('558a327cfdf99b2d75651681', '5ae9d42e9d82560001bdd824'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8afc47b0-f2d9-4f4f-8b51-5c2342ac9c0a.csv
+
+ID Pair ('5dbf9446a3f5cb419e9d28c8', '5efbbac9041ae7163c083d36'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9d592e7e-554d-453e-9e3c-80512508147b.csv
+
+ID Pair ('5ea876f4ea2ee42be043746d', '5eb10e1b6e2f921d6d6567dd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4a22389d-8ef6-4fab-95ad-ea5ae3395d88.csv
+
+ID Pair ('5a68c01031b87a0001c752c3', '5e2ef776425d8601c43079f2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e9f32e0a-d881-4ba4-ab6e-2c68b6851ef3.csv
+
+ID Pair ('5e2f4df549436751a44c8d8e', '5ee9d0dfab4d21000ae469c7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/47617931-c2c7-4ae5-8648-5a9aab0498e9.csv
+
+ID Pair ('5d05767056e71d001863ef54', '5e7072e5fb136c63e94f3fa4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/756aafa9-6ef2-4942-a385-222ca267a529.csv
+
+ID Pair ('5b7ca6161e35f0000172fa14', '5d36600685d1d50001affacb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/623768bc-17cf-4121-8968-f0c25c1aaddb.csv
+
+ID Pair ('5f23ff398626c51fdd6c3fb5', '5f51530ebc50f53857d60824'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4b3fc3a3-8714-407c-b142-bf2e242e0ae9.csv
+
+ID Pair ('5c5da579bfe5280001448433', '5e6d6545993427329a35b800'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b08ece6b-6cfa-4de6-97fb-e0591335a9f1.csv
+
+ID Pair ('5eaa287bfb0fca19f4306de9', '5f75f66541d27f011212af83'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ef28af68-e08c-45ff-9f3b-2718007de34a.csv
+
+ID Pair ('5efbdfe2d66b1418c2ba858a', '5f74d520b30576105d455fcf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/48a4206e-f458-4736-93fd-02436b76cfb8.csv
+
+ID Pair ('5b48e77c369f84000112a85c', '5c284e0970d93a0001211e16'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8e88babc-8098-4a2b-b533-252a2419f7be.csv
+
+ID Pair ('5cb35e2314235c0001320446', '5eb9798c0c0c95075ce61dfb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/43741688-7c5f-4a12-9a5d-956cd04c8e4c.csv
+
+ID Pair ('5db3a4ad4e72fe000cfb3dc9', '5f14c40b8a043d54837e0601'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5ab6dbec-f52d-4df2-ba45-78b92fb1cb9f.csv
+
+ID Pair ('5c228e5c867f660001ad66be', '5d338bb02381b7001761694e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0c9e034f-2fdc-4ba8-b104-1fe709f786f5.csv
+
+ID Pair ('5de59698a2db8951b9955ccb', '5f60a93d6baab60522f3d1fa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/566dee96-2aea-45e5-b75c-9cde9f601b16.csv
+
+ID Pair ('59ad6f1e09709e00013c2ba5', '5f1d266c6f7d7f62a219fade'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d0236056-985d-41a1-ab24-1d294fc713bc.csv
+
+ID Pair ('5eead18ae1959f1b046d1e4f', '5f0165065e7e8b2a6cfb4c19'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4a44dec7-65ac-4689-b957-6ba9e7c05b36.csv
+
+ID Pair ('58f0fca0d40252000192f201', '5ea4a34e4085724768be21a7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bb7bd0c5-2af0-444f-bec0-ef5683a94669.csv
+
+ID Pair ('5dcb55b60133ef83a90f85ac', '5f5c2d8dc6768e436b290d73'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/408ffd36-dc4a-4521-9349-7060ab14a6a7.csv
+
+ID Pair ('5f4f29b8c154ed17df64546b', '5f5fdd9ae0a5c90b28f6372e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/34feb55e-d811-4684-89a3-362f4297b7fc.csv
+
+ID Pair ('5eb06b5c438b1810fe2e58a2', '5eeaae03e1959f18cd331cd0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cc395184-f776-4bff-9299-e289bfc513f5.csv
+
+ID Pair ('5c27e76978fad500019328cc', '5f1798fcec2e75013c28cfc7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/352c15a2-c219-41a2-b291-f41f9b9ebbf5.csv
+
+ID Pair ('5977e3867412f8000194e1fe', '5ec8595410d64c343d8c7f2a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2ca8ec4a-32b5-4a96-ae8e-73b5322c993c.csv
+
+ID Pair ('5d497f8d3c428d0017121681', '5e531b2205acdb33c0f5f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c19346dd-447f-4b73-85cd-95d7dbf016c7.csv
+
+ID Pair ('5df9d7c2451be5738da84e4d', '5eec1b5d66afb73e27bb8c96'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bdb13e03-5ebc-4bf7-9676-c5f12146454d.csv
+
+ID Pair ('59ed1eb67f3d71000171e23b', '5e7751362226d42b52f254d6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/485ab0d1-e649-4c0b-8a60-49b2ee46dc6b.csv
+
+ID Pair ('566c7564d408ea000519c678', '5e1545d9b1fb05b6369d13e8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/725694cc-a541-4e33-88d8-0cfa283df918.csv
+
+ID Pair ('5e792902c0da0d0cb5ee3de5', '5ea75e57fe8e7013dd8c1224'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/58dabc5c-7cef-4a50-8881-07c6c8e0f656.csv
+
+ID Pair ('5a519789e0cf3d000125ee02', '5f557591aa1c4e950ba02f01'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6b9010e2-a966-48cc-8592-d38e17645dd1.csv
+
+ID Pair ('5977e3867412f8000194e1fe', '5d5162f1b50a1000169da137'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fffda3e6-7d99-4db8-aa12-16e99fa454c2.csv
+
+ID Pair ('5f31841d1f74f304ef5567f7', '5f612984e5033f09587f0faf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e980a9fc-0575-48b3-8fd5-4dec655ff479.csv
+
+ID Pair ('5bd086bbc3b40e0001df9551', '5f4c5105ad5ee685d48bcca2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5fcf9d0c-2f1d-44e5-bfc2-585ba1951f71.csv
+
+ID Pair ('5bd8d97c26903900018579d3', '5ec82c3f67c66a10c498ecf6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1550c143-9b3f-4d11-8001-0990ccd4a103.csv
+
+ID Pair ('5eb05058661fe60d7601edde', '5eeaae03e1959f18cd331cd0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb9ee0da-abb1-4985-9d85-6d19cf7cd287.csv
+
+ID Pair ('5c270d8f2c45d400014909e8', '5f2712b3488e134d570bc387'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2b209eb6-0d48-4ebb-9290-5a027ffa3c72.csv
+
+ID Pair ('5bdc6d16d9bc4e0001134779', '5eef1e59872e07000ba6cb37'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e21cd225-688b-4296-adec-11abc5c25495.csv
+
+ID Pair ('5acba4a15cd10500016280ca', '5e67b5c4a027430517877069'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3ecb7213-5034-4d15-83b6-6347ba6c7aa1.csv
+
+ID Pair ('5ed17f22e1dc340c98fd6bc7', '5ef134a5b2112b1207d5c65c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/132bd17d-7109-4d08-87d3-00ae478d66b1.csv
+
+ID Pair ('5ee9d0dfab4d21000ae469c7', '5f1798fcec2e75013c28cfc7'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/63573cd4-63b2-41d0-9d14-6e0c98b6c212.csv
+
+ID Pair ('5eb25c0cc5b33a3aa08e0eb0', '5eb9ea44968b651244404aac'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3049cb21-cec9-46b6-ace5-8b97f4fd6165.csv
+
+ID Pair ('59ad6f1e09709e00013c2ba5', '5d37d2861566530016a061de'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/22083989-6244-440b-af5b-93a3a10f6e04.csv
+
+ID Pair ('5dcfe5ec41fb3f0de0080f1a', '5f26bac88dfa6b4245d86e2d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/343fdcb2-0edf-4eda-938a-17bb3e937c18.csv
+
+ID Pair ('5c12f106c4b80e000192c472', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/829fe46c-948c-4a8a-8690-356777cd1d5a.csv
+
+ID Pair ('5aeffc6e0ccc2e000185aa28', '5ea714d0ba872d0cc55cdd79'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ff82242-7aec-46d3-a7ed-a8a0b4076c75.csv
+
+ID Pair ('5d5dc2d37bfc8400013b653c', '5f5127e45185c93094565dcd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9ac941a3-3b04-4bb0-8cb1-d6dcc2583b93.csv
+
+ID Pair ('5bd0d9bf25db7b0001786a5b', '5e7cb742d29f7530898fb99d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b71f4b5a-db48-4d3e-8487-9d4a80b5a866.csv
+
+ID Pair ('5ead6f256fef94028e07d655', '5ed442ea258f2e4098c6b153'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/33528414-6a77-4fde-a01a-aebbad5fc3d8.csv
+
+ID Pair ('5a59452c76d1c60001ab20aa', '5f4c9e74da9c148b0d42ecbd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e14e94f7-2550-4f38-b9ba-ebe4958e0512.csv
+
+ID Pair ('5dd276c9a643802932187844', '5e24251b3e33586a5802206f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/45389a74-f82e-4a2a-b553-5eea7be9e935.csv
+
+ID Pair ('5cea6a19be3e050016bf85f2', '5ef00318f05e8b4fc02145ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ab3deb59-51cf-43e3-92f9-c53103d2bebe.csv
+
+ID Pair ('5ed74a20ac241e1c4dfeb045', '5f84093b9b3e190008131671'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ce7d0f15-a34c-4df8-9f19-9e6201a30d7b.csv
+
+ID Pair ('5c8be0dd542fbd0016924f5f', '5d8d29488bb7fa001a59cfec'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2f39332c-6b63-49a7-9dc3-491c3cdc5aa2.csv
+
+ID Pair ('55ed87f0748092000baa9a0b', '5f067c54f05beb1e8392a532'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0a294776-ca94-4114-bc24-2bf3b0a0a813.csv
+
+ID Pair ('5ec4a0fffe991f37f61b356e', '5f0298ad4a1b58435567e7d4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/65271581-3117-4b65-a54c-64486d5e5453.csv
+
+ID Pair ('5bd8d97c26903900018579d3', '5f1b95cfe2161c3aeea48077'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/33f1c21c-b07a-485e-ba8e-43217e25ae00.csv
+
+ID Pair ('59877315f8b162000167a2c6', '5beaf789650d4f00015b9e63'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b92a443a-5a53-476c-98e0-0f2605c0af2f.csv
+
+ID Pair ('5d98077e74f4a002ea9a8c40', '5ec5b367ec26b761ec0fc87d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5fe46d0f-6c17-41eb-bb4d-022ce47fe824.csv
+
+ID Pair ('59296fb2e8a7ff000163f033', '5f2712b3488e134d570bc387'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/824c8d5a-0504-4a2d-986c-6494469e2c86.csv
+
+ID Pair ('5eac6e70e481222bfb2a8872', '5ebb60fe5b408e13222c626c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/826248c3-018b-4b56-8844-ef762f5b60cd.csv
+
+ID Pair ('5d36600685d1d50001affacb', '5f91a6fd02a12e041dd41ec4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/53074503-e206-4f9f-8e46-0c767ff6813f.csv
+
+ID Pair ('5d618d5b13b88900195548f2', '5f4e391f5dbb441153a43289'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/94a3c6b5-46d5-4d3c-9616-1cc0e5a21e9e.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5ea714d0ba872d0cc55cdd79'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c42c493a-51d3-43d1-9942-0ad8c30412f4.csv
+
+ID Pair ('5ec5b367ec26b761ec0fc87d', '5f6b75742bd7e60776191cb4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/69fef050-eda2-4dbd-957a-80a8ae7112f4.csv
+
+ID Pair ('561d98e03d7fe8000b0f5e09', '5d437b12e2051e0001a248ca'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a3fa2c2c-621c-4112-9520-44c2ced24271.csv
+
+ID Pair ('5ee1aff5d156f20008c98012', '5f0df6c9b64b5107b88cbd4b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/010a1b2a-7b69-4245-807f-d94eb6aa165c.csv
+
+ID Pair ('5c6f2e7632cb70000169b490', '5ef4f98e50dc6b12b6476d5d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c707b1d3-624e-40bd-b69c-e080b26eab98.csv
+
+ID Pair ('558b7b06fdf99b21155f2c1b', '5c228e5c867f660001ad66be'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7c3bce28-c6af-4015-b678-994ac5c0fa67.csv
+
+ID Pair ('5d8d821215875e001482ece7', '5f4c5105ad5ee685d48bcca2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/491f9074-6f14-4ecd-a809-700599d28d82.csv
+
+ID Pair ('5acba4a15cd10500016280ca', '5d0a731abf09e10001c3f3d8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2673c393-67e0-4880-b56f-d6b2696f1631.csv
+
+ID Pair ('5bdc94f819b9ba000157da85', '5d54d3560c5b0400174b3c81'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d725ab7b-df57-48fe-af34-b5fec56c7535.csv
+
+ID Pair ('5f14e0f456500058ee865863', '5f4bc3259e842579bf1a8b0a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/25273115-7813-4bfa-bd50-1e4ce0cadfe3.csv
+
+ID Pair ('5ead6f256fef94028e07d655', '5f15fbdf2c61ce144ceeb357'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d7f76bb3-29d2-4d4e-a766-350f420b9c7d.csv
+
+ID Pair ('5e50bf5e2cfcc30ff7f5d870', '5e94b9964b34ff81dd869755'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ebf0db45-682e-4a93-a62f-840a49e6914e.csv
+
+ID Pair ('5da4e65ee7fdf4001aa4dab1', '5dd0b075c944d1174e6e3c5a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/853976a7-d129-47e3-880c-210ace486378.csv
+
+ID Pair ('5d7bd6f64b15c1000195721a', '5dd406d9c23e0d3e6dacc034'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8a9561f0-0eb6-4650-be92-4bb03821fb7b.csv
+
+ID Pair ('5d788a48a745e900191b0447', '5e83bb0601aa8c11929fa6d4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7846e1d4-2b36-47c4-b6a0-51763fb72c2c.csv
+
+ID Pair ('5c75419284e176001254c7a5', '5f037eb9de02ff2a0082dda3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a22efd38-bbbc-420e-b501-1e0212b50a38.csv
+
+ID Pair ('55ed87f0748092000baa9a0b', '5d0fb996286e1700010de2c1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5a6f9b34-17b2-4a65-95e1-7af5b451b395.csv
+
+ID Pair ('558a327cfdf99b2d75651681', '5f56b56b0fa1b412025708cf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2e88ace6-b04e-4c21-9758-09f03b8b33b6.csv
+
+ID Pair ('5c707aa503f85b0001af8c7b', '5dd406d9c23e0d3e6dacc034'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/35ec4d47-9fa9-4868-b51a-ee38999f7953.csv
+
+ID Pair ('5d3213238088eb0018fee4c9', '5ef0b9fefb4e033ed8364c10'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fd31814a-0410-4a33-83ff-cb042367e832.csv
+
+ID Pair ('5e88f058524dca58ab60da0b', '5f29dfe7512c2817f7957e1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb1661ce-8e17-4e3e-bb1d-a0c14450218b.csv
+
+ID Pair ('5e2be6efe179572183644844', '5edef14e402f7d1ac3b97c74'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/566e32b6-1a77-4609-946e-286919e54bcc.csv
+
+ID Pair ('5a49d6a06d85f80001c25bc4', '5ef517ab79cf2c15b7452eda'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c66aadaf-0c35-4150-a66e-1b41bc359748.csv
+
+ID Pair ('5ee3c8f2eca1a2085413c9d5', '5f0293ca91b83b4294d6685c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1f27e83c-e6e2-45de-9200-fbbf0541b2c1.csv
+
+ID Pair ('5f5128258dff8f30b0c3c1eb', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/05f2e66d-b3b6-4bdc-8ae6-9b0241a58642.csv
+
+ID Pair ('55f5946a32af74001017047b', '5f469dcf5fcb5d0355771013'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0e8d198c-fe6c-400c-a88b-5a3ead8567bc.csv
+
+ID Pair ('5ddc91ba7d4595bf332f8b7c', '5e02285cac9e16dcddb845ef'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/90741059-bd4a-4488-946a-73fa52c24066.csv
+
+ID Pair ('5ce30fb4c6aade001903ed6d', '5d3758292faa0d0016797c0f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ca320919-ceef-481b-9777-bc2fa5319ccc.csv
+
+ID Pair ('5b90b56f42e93f00017cc85a', '5bd4cb4f25db7b000179488d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5857dca0-e0b7-425d-8c09-e301f5468e42.csv
+
+ID Pair ('5cf6231511ba980001e3aa3d', '5f49553539747213d0e5f1ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0a0cf5b9-84f6-4d8d-8001-ec7fd4b7437a.csv
+
+ID Pair ('5c75471e5eb59f000131c7a4', '5ef6743fa4d98d36b3d86694'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1c76c243-3a37-4416-87d3-2e4eac7d2f3e.csv
+
+ID Pair ('5e531b2205acdb33c0f5f24c', '5ee91d6e634e8e1290804250'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/23d4ec0e-9357-400e-ba97-386dcd264a9d.csv
+
+ID Pair ('5d36600685d1d50001affacb', '5d37d2861566530016a061de'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0d0b2f79-3370-4a86-9a21-a723847ff204.csv
+
+ID Pair ('59296fb2e8a7ff000163f033', '5f98aeb71f6d0e1cec74defb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f79d4372-62ac-4e70-a2d9-8b722fd5edc5.csv
+
+ID Pair ('5efbe4f0c9f37c1a3b70afaf', '5f26378609aca228dcfd19fa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/56f21a75-4e86-4dee-9a15-a4f68e86e1a3.csv
+
+ID Pair ('57272517e386b9000e3e2b72', '5dce9859c41dc20fc2407bf0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/41b5746a-0546-4c67-b262-a61ed5a6af2b.csv
+
+ID Pair ('5e3f6b251d15101c5251d8b7', '5e71556788152e079f80b73b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b6317fee-af93-40da-ab3e-3f6a12554327.csv
+
+ID Pair ('5c43c90d5aca820001f73f6f', '5eb2f1a1ce5ba10ab2c0a042'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/477392a5-4d62-4530-864e-446dd8be3bfb.csv
+
+ID Pair ('5cb60f1eefd4130001bbfdb7', '5d84d74aba692b001d6708b3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/feec1858-a662-42b2-b617-78a790748186.csv
+
+ID Pair ('5dea961cf4c5e11bd9c4058c', '5f4d2156f727e10c3c2c4a35'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/52983901-602c-484c-a43f-da8509a84e88.csv
+
+ID Pair ('5f62498a23e52627a1dbda93', '5f722f85f1b79f1326f59ada'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/188c0cbf-69bf-487a-bb75-c7b088df160b.csv
+
+ID Pair ('5eb2f1a1ce5ba10ab2c0a042', '5f15da27044c9b700c9b7432'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f77a4b03-ad8f-438a-a85b-20c055aeed48.csv
+
+ID Pair ('5d36600685d1d50001affacb', '5e1545d9b1fb05b6369d13e8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6f768eb2-a9d7-4a8e-9ae5-fddb6675a40b.csv
+
+ID Pair ('5acba4a15cd10500016280ca', '5e7d21d4b7838b3a5fb29246'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/372442fa-0932-4936-9feb-60a62a4d2b6c.csv
+
+ID Pair ('5bdc94f819b9ba000157da85', '5e63912d08c2ef10e6a85688'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/96db0ba2-2a0b-4e0c-9c15-a3dae109f929.csv
+
+ID Pair ('5c5c06b9ba12df000140be91', '5e4661f88bd52c1307647814'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/53b4d5ad-9c9f-4d5c-b9f6-336c9b755e26.csv
+
+ID Pair ('5f0293ca91b83b4294d6685c', '5f0df6c9b64b5107b88cbd4b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9a495cd2-0101-4714-ae60-eb55cfd5764f.csv
+
+ID Pair ('5996ad5c9845ef00014de423', '5eba7dd788044a040e7d8d60'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2ea08e99-5f68-48d4-af42-0f4d31f1e148.csv
+
+ID Pair ('5e567cd58e4500024e8d096c', '5ea9c6541eb4f0121a911e1a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b5bc489b-71d3-4817-803d-fea240b73431.csv
+
+ID Pair ('558a327cfdf99b2d75651681', '5de1ef4ecb1b08240f97671a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c1ab4807-f720-49ec-8c98-cf477661dee5.csv
+
+ID Pair ('5dfeccdf4c81b2b61266d02e', '5ef3aa388ec82e1307ba5b02'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/235004a8-6643-4be4-b09d-e19a6a2662f6.csv
+
+ID Pair ('5de10a767292b61529705ead', '5f1681427a99fb7e7d6bbec6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8c19ef18-4f48-4938-a2fe-f489af906df7.csv
+
+ID Pair ('5e01ac85617219d6da5ab31c', '5f400d4a51a8cd1011b37455'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/17f79204-f746-4b86-84da-6e1fd27bf6e8.csv
+
+ID Pair ('5e8727fb90c37002d97ca052', '5f14e0f456500058ee865863'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/208d0dd5-458e-4530-9a8f-ddd6b05bffca.csv
+
+ID Pair ('5eb3ade7c66e621a76d48c66', '5eb626e38224d351c2580802'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a29635a0-d33c-4ddd-ba70-154170b85057.csv
+
+ID Pair ('571cea664ca277001153c045', '5a0f7d84ff266c0001d209cc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2e76b663-387c-4bd0-bb19-11b9ff68d94e.csv
+
+ID Pair ('55f5946a32af74001017047b', '5cd8d86210887400182db201'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/97b17342-a9c0-43ed-ad4f-02dfebfb7ce7.csv
+
+ID Pair ('5c4af67cdccaa800016b3192', '5c7a4ca80b94ca00164122a1'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6f6900a6-098d-4034-aa06-43339769adbe.csv
+
+ID Pair ('5dd340e3e25acf34bf91032e', '5dd3488e181abc35d131ef34'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc9b8e44-6ea0-4b80-a7b7-ae728e6f230f.csv
+
+ID Pair ('5e2721b01160079464059b5c', '5f12a44dadcb8421418b6a80'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/956c58d0-48d4-4f4a-8cee-95c4b2df5e58.csv
+
+ID Pair ('5c3a34eebe1ddc0001aa35d6', '5ea72592a95dbf0c71404225'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/84a41c3d-d43c-40c9-bcdd-ba3edb6dc7d6.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5ed2fa0793788128b41df2cd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8016c17f-ffbf-48f5-9745-df1bf39c3aa3.csv
+
+ID Pair ('5f18ff404f90fe1473c2e3b6', '5f5128258dff8f30b0c3c1eb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b3ac73fa-02b8-43e2-950d-6617fcb67b11.csv
+
+ID Pair ('5eab89102e910016bb0b5414', '5eb1e9b96c1f4713ed5d0a1e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c72a1b6d-06e3-4c12-b84b-20abdad9574b.csv
+
+ID Pair ('5f5bac39ce8ed832aa378a53', '5f7a0bc4853bd46503a27113'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/826378b6-4c2b-4309-b66e-2a0a6b8fc162.csv
+
+ID Pair ('5d10eaf23afd390019075267', '5edff301000fa631c7b5bd3b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fef1df3d-3386-49e0-9f39-28c15f21ee10.csv
+
+ID Pair ('5c5da579bfe5280001448433', '5e718a10031ef50be0aa2092'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a2c3d859-d4ec-467e-931c-a8db11edfa65.csv
+
+ID Pair ('5c91c693765dad0016f8495c', '5f20240d7dfbcc294161ba43'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/96b7cb73-2377-4b20-952c-7e1fafb74da7.csv
+
+ID Pair ('5e2f4df549436751a44c8d8e', '5e4566e8f64db704b739b757'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/98666aa9-2a23-4a64-9379-48541d73d901.csv
+
+ID Pair ('5d792a20c0a7b8001879154a', '5efbe4f0c9f37c1a3b70afaf'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c44832b9-973f-4b9c-8262-e9ea2661016a.csv
+
+ID Pair ('5db25a62299961000fc5628d', '5de90f54a48441037ac21f43'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7595d874-c1cb-4aef-918f-3c81f3a84324.csv
+
+ID Pair ('5dd5db1ded7ea4574c7bc996', '5e01ac85617219d6da5ab31c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5348de6b-afa5-4c36-8087-cd3bf94eedfd.csv
+
+ID Pair ('5c9107147a7067000190a544', '5ec6e4ebdab574105b1bf4d9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f95009b1-6e27-46f9-bf78-bcef2b36762a.csv
+
+ID Pair ('5f04797c88d91307286d6379', '5f65597823696e0e9bd8f63a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f1f925d9-416a-44d8-9a12-72b975f02459.csv
+
+ID Pair ('5db9a46ff8e3f9000f88cb85', '5ee12e737def25505356237d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4cc6a596-48b7-449b-b6af-a27263c72021.csv
+
+ID Pair ('5dcf9e053269920b9fabfe19', '5df4565dfeea89323021ef27'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/725b5586-09b0-4701-a975-03bbd6b88edf.csv
+
+ID Pair ('5cc020d5159f790017bee28b', '5f30841ff614014e92784605'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8d38d01e-ab10-4ec3-8182-175be4e4be2b.csv
+
+ID Pair ('5f1664c5e764871cf6d224aa', '5f93386aec8f5f0e50933a4d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7f32f80f-9412-43c2-87c1-df810a781a94.csv
+
+ID Pair ('5c114210280a8200019d7b1d', '5dbf9446a3f5cb419e9d28c8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6ae995fc-97f7-4fa4-84d9-aa19c360eae9.csv
+
+ID Pair ('5eec1b5d66afb73e27bb8c96', '5f1f02dff0628308ca27f3ba'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e74cebc3-d1cb-4c6b-b7c1-0846526fbed3.csv
+
+ID Pair ('5eab89102e910016bb0b5414', '5ef0d2abecae6d04de905512'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/00deb2e5-cf7f-4a5c-a8db-7fc335634ad6.csv
+
+ID Pair ('58f0fca0d40252000192f201', '5ea492e3b1b3620a6fee3b90'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f87e9fec-1914-4d95-8dac-fbc6fb79e5c2.csv
+
+ID Pair ('5b5e7e643bac1d0001f9bf28', '5f51530ebc50f53857d60824'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7d878932-ff6b-41ae-aca1-e15582e5d519.csv
+
+ID Pair ('5c2805401d4eb70001177bfc', '5eef7517c8692d20c3279493'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/34ce2cc2-c709-4852-871b-896a368b0ae6.csv
+
+ID Pair ('5dbfc5016d82ff42896b1f76', '5e26a04f727e048d3e0b9459'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/68fda301-7b65-4d25-9572-3611ae9fb128.csv
+
+ID Pair ('5d20081484b46c001977a5c7', '5e554d861665625488a7733a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/49694675-cacf-452d-a940-3c93987126ef.csv
+
+ID Pair ('5eb86384ed81047c65376aea', '5f3aead81965e27c4a531d95'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/53bee564-d0d4-486f-85f9-565c5314486c.csv
+
+ID Pair ('555527dafdf99b16a75afd54', '5e67f0321e4f0a0a657c1d08'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ef2f7d4f-8e11-4f25-9139-713a5436fa24.csv
+
+ID Pair ('5db2cfc2aa1295000aa719c1', '5e3ac9d20d41ad2da023d9ae'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8712e06c-82bc-46dc-ba0f-4181c1feaf48.csv
+
+ID Pair ('55cb7fdafdf99b3c26ae4d4a', '5d25fb29c03bad001a86e557'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0cf5b16b-83b5-476d-a2d2-c696a4297f6c.csv
+
+ID Pair ('5cf480e61e7dd30001eee4c1', '5e4589f0dc89f106ff742885'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d70e5a84-c195-4832-8862-07f85cda138a.csv
+
+ID Pair ('5e60344611009137b29e78ac', '5ea5ce85c8a6d443aea2bb5d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a7d8ca23-0b34-40a1-a25c-111db6eb0b3e.csv
+
+ID Pair ('5c4ebc2361922600011642e6', '5d929c1d243c0c001a369955'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e7937025-762a-4415-b401-a6299e917420.csv
+
+ID Pair ('5f4a7225cf944c08a81adca2', '5f989fa02b5a611b2df1a305'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0baae204-e051-464a-982d-70df8b90608b.csv
+
+ID Pair ('5eece89d63352e0c327ddb0b', '5f51265c4873f23082851a5c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ada6c3c4-8c97-4b37-b1e1-a28706a194d5.csv
+
+ID Pair ('5e1f7b9242998a2ab95cff70', '5e9d17806b65d7251242bb7a'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/671a3808-df44-4bdb-9000-1078a0280eeb.csv
+
+ID Pair ('5e454881703c9401c7c3fe4f', '5f1f2cf5a441a30fa1b79b2d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fe74802e-1034-4365-82f8-f9e7f4e5b0df.csv
+
+ID Pair ('5e6d6545993427329a35b800', '5eb10e1b6e2f921d6d6567dd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5f61a48c-b11b-460e-a4d7-9ef5ca9d857b.csv
+
+ID Pair ('5ee91d6e634e8e1290804250', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a90526ed-4c07-411f-893d-b4974747080f.csv
+
+ID Pair ('5bd8d97c26903900018579d3', '5f4f880fe0a90c049c47adca'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7580acaa-c235-4550-90e3-db781f7787a4.csv
+
+ID Pair ('5e668df31d7e1a4039d67b49', '5e79340b6d9a624e3f39586d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/43f39618-a519-4bb6-b734-f834d0c641a2.csv
+
+ID Pair ('5e24ce20e3c71973d8ac396d', '5f07070d75038e05e9fcf515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/492a9916-3e2b-4d3c-acac-e3161eb7e996.csv
+
+ID Pair ('5e8cc937ee95da07853f938c', '5ef6d07be683903cd5ae171d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/63e861bf-3c6c-434c-9099-c8d8ba694caf.csv
+
+ID Pair ('5e975ea254955d0bfe9f7929', '5f97876ff0dac31565af2afe'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/24292f26-1133-4475-ac34-37230db54f33.csv
+
+ID Pair ('5c8be0dd542fbd0016924f5f', '5f2f6bd965964e35e20c7445'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3a51d3fd-a343-4177-b48e-a694a14c5891.csv
+
+ID Pair ('5f4f880fe0a90c049c47adca', '5f568b81712ed00cb3759181'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0af09289-1953-4e71-bee5-b34a5828fe52.csv
+
+ID Pair ('5dab7683c514d8001730ae4e', '5f4e7f5ac0126206d331b7b2'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc427c9e-28a4-47fd-bfca-a5f09dd13840.csv
+
+ID Pair ('5e6d6545993427329a35b800', '5f5e8c58f7e0497501c4e356'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ac3a86cc-3a35-4567-acee-752d9545ffa3.csv
+
+ID Pair ('5aeffc6e0ccc2e000185aa28', '5c270d8f2c45d400014909e8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/eea72e55-2619-4699-8d66-529db67b1412.csv
+
+ID Pair ('5615777c7ffc8a000a811c61', '5f0e08d6cee7a90b940fb9ab'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e42f6986-08cd-4ec2-9529-ddb47bdb674b.csv
+
+ID Pair ('5dd5db1ded7ea4574c7bc996', '5eac6e70e481222bfb2a8872'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a1ab2d0e-1546-414b-945e-a59bad758e77.csv
+
+ID Pair ('5afa5252672ea800010d97e6', '5ec453f93ba6b432bdf01d58'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/071cf0a9-87b3-4bd5-a6ca-f0798227e8e3.csv
+
+ID Pair ('5e2f4df549436751a44c8d8e', '5f5053004eaeb51d946fe1ff'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c9400bba-e0de-42ee-acf5-ec0c3b341b24.csv
+
+ID Pair ('5b66ce776f0d0400010d678d', '5dd33bd8f01cbe3350807cf6'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8fb541d2-030b-46ad-9b94-77b6989cd555.csv
+
+ID Pair ('5ddef2e6929d5de6f1050f1c', '5e88e9f57a40f5577f4fe75f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2af937fb-4da0-43db-91da-ca3fd9ebedef.csv
+
+ID Pair ('583f02c8ca2e57000184353c', '5e7fefe06c12706d47e35211'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3eb02a3e-10a7-4927-a967-6d39e43edc0f.csv
+
+ID Pair ('5e531b2205acdb33c0f5f24c', '5f5fffc902adba0e8f3fdb75'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/671f9e6e-a35f-4bdc-9b61-4adb53bb1690.csv
+
+ID Pair ('5a0f7d84ff266c0001d209cc', '5efbbac9041ae7163c083d36'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ac88fef5-eecc-4a97-aa42-623c9ee62272.csv
+
+ID Pair ('5aeffc6e0ccc2e000185aa28', '5c75471e5eb59f000131c7a4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/c6bc0a7d-26ac-426f-bd31-279a8c1d2e89.csv
+
+ID Pair ('5e0e31c179f2fa58ed5bc904', '5e83a35304f8a80a13ac590e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bfc2f31b-ede5-4bba-9e67-4552a6f8bb32.csv
+
+ID Pair ('5c670a430d80fd00014264f9', '5e6cade3d92ffb26677dbd84'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/014a3227-9b4c-4f23-ad5b-8325235301ed.csv
+
+ID Pair ('5c228e5c867f660001ad66be', '5f3e9f121e84430ec9310a7b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/af227a69-6613-4e74-bdc4-b2fd2313eccc.csv
+
+ID Pair ('5eadf3b39c169a4a5a017f76', '5eb02a40b17a8c0868685d32'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/25de27d1-adc5-44fe-85ce-fc53e15e1b02.csv
+
+ID Pair ('5ede3d2ef7c9f9068776c4d2', '5f39c08c4b0c7456a60d4932'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/660c942e-6681-4f6f-9d9d-0aff9f2e5561.csv
+
+ID Pair ('5f12264477e2150008d329fc', '5f563397d628840162b467dc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d4524fa6-76bf-49fd-af90-16da6d81b37c.csv
+
+ID Pair ('5c8f924dbd496e0012a84583', '5eeaae03e1959f18cd331cd0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b2338ffa-61e1-4283-ab0d-36c946042b17.csv
+
+ID Pair ('5ebcb23a12a15210197d1d00', '5eeacbef6580b820c71e449c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bc407384-6ae0-4cbf-8bdd-5967aa01c1a8.csv
+
+ID Pair ('5b8597308f1e2600019bbf90', '5f23ff398626c51fdd6c3fb5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/269bc7df-9b19-4879-88c7-4474dbd62f67.csv
+
+ID Pair ('558a327cfdf99b2d75651681', '5f1b2282a3103e2caff2fd7b'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d88b22af-06ef-4146-b379-805c98344d66.csv
+
+ID Pair ('5e799a4602f92955a07c7546', '5e9bc7adcf719d0d4854a34e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4.csv
+
+ID Pair ('5c91c693765dad0016f8495c', '5eb10e1b6e2f921d6d6567dd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d653d9fa-abbe-45f9-a6d3-e7200510cac8.csv
+
+ID Pair ('5d54d3560c5b0400174b3c81', '5e2be6efe179572183644844'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2fb5e5af-52fe-4469-b77a-0b4467ca0bf1.csv
+
+ID Pair ('5acba4a15cd10500016280ca', '5d54d3560c5b0400174b3c81'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e712c6f8-892d-4880-afef-c3b7b840cc17.csv
+
+ID Pair ('5dce9859c41dc20fc2407bf0', '5effc7a64495250cbb0d8de8'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d107bc22-398f-41d1-aaee-7cd84897759c.csv
+
+ID Pair ('5e67b5c4a027430517877069', '5ed2fa0793788128b41df2cd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/6e82e1a7-b912-409c-9a03-7dee3ece95f1.csv
+
+ID Pair ('5d4c7aa8f05d320001760340', '5e0b780bd62abe3a4eba3cfc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/deea9e23-92e1-4d88-b230-dd94ba04b8f0.csv
+
+ID Pair ('5d437b12e2051e0001a248ca', '5e531b2205acdb33c0f5f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/026c91ab-94c5-482c-aba7-42e83a79c423.csv
+
+ID Pair ('5afa5252672ea800010d97e6', '5d8de6eaafa2c40019f2375e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/474ab563-0623-448f-b2f6-13505ae80fa4.csv
+
+ID Pair ('5dd33bd8f01cbe3350807cf6', '5ee584e4acfd341ac542b0c9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b88c01b7-4d38-42c5-b650-ee796b3ef869.csv
+
+ID Pair ('5eeaae03e1959f18cd331cd0', '5f2850a9d9a5f01279e1bd16'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/cb056010-c50e-4e80-b639-bb178a2b9330.csv
+
+ID Pair ('5ebb26803576b50eb12d87d9', '5f4723d5d8bdca116b466a70'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fc3337ba-f235-41a9-ac9e-7ab6c722216f.csv
+
+ID Pair ('582879857e8aef000152fba4', '5cb882d33f0af9000159e00f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2dabab21-c33f-44db-9a86-d348967eb4ed.csv
+
+ID Pair ('5dd33bd8f01cbe3350807cf6', '5e6d6545993427329a35b800'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/33c5f6cf-7cd2-448d-8970-a59462023a45.csv
+
+ID Pair ('5eb1e9b96c1f4713ed5d0a1e', '5f0395a63963d05bc235abdb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4068e5ec-1e1a-42f1-979b-0dd423fa2c48.csv
+
+ID Pair ('5b71f50a4d08b700018a90d8', '5f563397d628840162b467dc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1de1781f-ae79-4467-9724-f0808b7f55d7.csv
+
+ID Pair ('5b5e7e643bac1d0001f9bf28', '5ef6d07be683903cd5ae171d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/86eacecb-02ab-4eb0-a7c4-d5007f67bb7d.csv
+
+ID Pair ('5ea492e3b1b3620a6fee3b90', '5f907b351fe59213d2314559'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fecde32e-398d-4978-8148-4e25cd7cb989.csv
+
+ID Pair ('58ae59babb9e0f0001acb414', '5f0293ca91b83b4294d6685c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/178000fe-cade-4f84-94f3-5e2aca75e454.csv
+
+ID Pair ('5b6cb3049ee1a50001c5ef0f', '5ef6743fa4d98d36b3d86694'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/81f75ece-fc36-405f-a281-a28213a8707d.csv
+
+ID Pair ('5df58b28ecb3ea3ed1ceea37', '5ee3c4bda54f6807aced1eb9'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/8b1e20c8-f7f6-4198-b938-a8fbeea3e912.csv
+
+ID Pair ('5c91c693765dad0016f8495c', '5cf6231511ba980001e3aa3d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bd255963-943c-4f04-a18a-cbc402817dd8.csv
+
+ID Pair ('5d81611eb54787000140f73a', '5df9d7c2451be5738da84e4d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e3c22d6-422c-4921-8892-e31e09f9a2f6.csv
+
+ID Pair ('5eaf1a2c649fd108284c2b5f', '5f55970526475e96dc125bd3'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/13e15556-fa63-4315-a6ee-7b2c13156d1a.csv
+
+ID Pair ('5ecb2895bc80406a12e913a7', '5f122a156da6b5164a0a028c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/7a5ae937-56a7-473e-a6bb-af2313410916.csv
+
+ID Pair ('5c5f7a56054ae60001d066f2', '5e4d9878130d9e1fb88e68d4'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/dcb30b14-8110-4106-81e2-d64b96e205e7.csv
+
+ID Pair ('5a73899f9cdd1800017786f0', '5fa072f4f4aa580b63834357'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0020a0c5-1658-4747-99c1-2839e736b481.csv
+
+ID Pair ('5987c9f26ab9880001b5b04d', '5f1f2cf5a441a30fa1b79b2d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/19ebf7f7-5bbf-4a8c-a94f-1b7d2decddbf.csv
+
+ID Pair ('5e02285cac9e16dcddb845ef', '5f12f20001f4ce0008767b19'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/4aab823d-a152-4133-9383-dfc65a4ee06c.csv
+
+ID Pair ('5eea4a214c865810724760f1', '5efe549cd061693579bff438'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/51e1704c-3a80-49c9-a22e-2c4db6332d43.csv
+
+ID Pair ('5de1ef4ecb1b08240f97671a', '5e67f0321e4f0a0a657c1d08'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e09c3331-734e-4205-ab98-5f71cf3fce3e.csv
+
+ID Pair ('5d8aafe09d72b20019dc66d3', '5f2f6bd965964e35e20c7445'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/da272ccd-9b89-4ae4-81d4-38ed452f36d1.csv
+
+ID Pair ('5f2850a9d9a5f01279e1bd16', '5f6b69d064b69d05a7c7c621'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5b48dc51-b4ca-432e-b3d6-e3c1f61c58fa.csv
+
+ID Pair ('5c7c73b6f48c6d0001f6f49c', '5eee306006ab9629fb76858c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/bf7ad7be-febc-4b11-b25e-4c27e8b8a89d.csv
+
+ID Pair ('5c5e4e5106006e0001db8f0c', '5eee2f5b6a22952a2bce82fc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5bde82b3-4a86-497b-a4c6-a26f3ce01e87.csv
+
+ID Pair ('5c75471e5eb59f000131c7a4', '5e798102bb0d6153ce71c3dd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2a4b8fbc-ece6-4a80-837f-8d2b08b2c4ce.csv
+
+ID Pair ('56df9a836b4093000bd896c7', '5eee2f5b6a22952a2bce82fc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/0dd022be-f343-4afb-b170-0dc8003078c7.csv
+
+ID Pair ('5eb2f1a1ce5ba10ab2c0a042', '5f0963c6310eaf000b922e94'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/2d20999a-e929-43c8-9b4f-f220cafc06d1.csv
+
+ID Pair ('5a79f14a8fe2dc00010593eb', '5f7b883e86b82815a5a63f06'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/5c89fd8d-9663-4d7d-bbdd-a919c95e986b.csv
+
+ID Pair ('558823c2fdf99b318cb4224b', '5c43c90d5aca820001f73f6f'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/1e8868f5-b771-402a-b5b2-ba76b9272f2e.csv
+
+ID Pair ('5c989ea4c7f75b0001677fa8', '5f26378609aca228dcfd19fa'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/b8efcf59-ef2d-4aab-8e05-d56092e0c26e.csv
+
+ID Pair ('5d0ef1db991536001911cbf0', '5d96203d74f4a000159a8c58'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e7b266e9-d36e-4e2e-b6f5-3adde88c8f27.csv
+
+ID Pair ('5cc93712f2915d00148a0602', '5f4d92a4584ab6064be44ce5'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/024c9be7-c98d-4a2e-b4a9-7884d0b0f626.csv
+
+ID Pair ('573bc4fbf3580b000fce0af4', '5c4af67cdccaa800016b3192'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/631e6db0-f0af-4f55-adc5-fa218b624bd4.csv
+
+ID Pair ('5ea9c6541eb4f0121a911e1a', '5efd4df059990518c92eca95'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/37011b48-f667-4657-a404-e747e702ab4c.csv
+
+ID Pair ('5dae16d241fbb6001160ce72', '5f1664b2988fa11bd92ee0fb'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a13226d6-ad1f-4952-8f86-cba2bb920f69.csv
+
+ID Pair ('5ea92954ef7ece00096faf5a', '5efe33b14177723069d82cfd'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/d7a96d59-d94f-4e56-b7c4-6e056c561f58.csv
+
+ID Pair ('5e9791114b57800e79af5a2d', '5eab768005687314cb9fe515'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/e1d3620e-4ab5-4f29-9d10-fb9ae7c19c7e.csv
+
+ID Pair ('5f50544b526bec1ce4a44f70', '5f94aa40f830e83034baa1c0'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/828619fd-7bda-44a3-a123-e754026bfcab.csv
+
+ID Pair ('5d30a875ad3457001743fbc9', '5eba7dd788044a040e7d8d60'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/3c923944-0979-45d1-8396-a72dd9ec55d2.csv
+
+ID Pair ('5ef19d99454675561e3fc9bb', '5f39d80f9bbaf517512eb86d'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ffe29987-3502-4f72-9987-cc5208ae3880.csv
+
+ID Pair ('56df9a836b4093000bd896c7', '5ba2d949821f7600011d1ccc'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fd8146e2-378f-459a-bec6-e76896e135a0.csv
+
+ID Pair ('5e8e4fc4bb7e470d85c008e5', '5eeb9d5c417b5b34b8ceed17'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/607a1155-0781-43a4-88ea-66a4cdb75585.csv
+
+ID Pair ('5dddbebeb966ded354c7ab3b', '5f1e9b5ffe1f70029559f24c'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/08faa0ab-2bfc-45f2-8286-715209b26de2.csv
+
+ID Pair ('5a79de1faa46dd00016b3a60', '5d1aadf961a40900171f6931'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/9ac1cd72-36b7-4fe1-a870-d35801fae201.csv
+
+ID Pair ('5c33c6db5dba3c00015ec0e7', '5eefcccaf9461b13feb83c5e'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/249a5491-5c41-42d4-bcb0-5f72dfd8baa2.csv
+
+ID Pair ('5dd4070a57a7e13efe25534a', '5f6dc2d7fa66e824dbf70d24'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/f3d1c0cc-b7be-4165-ac07-c71f6b2fc93a.csv
+
+ID Pair ('5f8f5b679cbcab1b8b064970', '5f989f291028cb1a8b555969'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/fda796df-e400-4805-a998-525476364085.csv
+
+ID Pair ('5c102b9461df5c0001cb468b', '5ee6511c69b98d0129d62f27'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/ea4c6102-1123-41fc-b8ab-96f4295af3d0.csv
+
+ID Pair ('5e4b0189cdf5a6011838a6a2', '5f4a4da1575d605c43bef871'): 
+/Users/hann/Desktop/Developer/InteractiveRobot/CANDOR_survey_data/a486867c-c6b4-47c1-a43a-8ceba0eb03f6.csv
+
+
+Matched ID pairs: 783 / 783
+Unmatched ID pairs: 0
