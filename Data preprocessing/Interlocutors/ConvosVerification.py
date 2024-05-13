@@ -21,8 +21,13 @@ def compare_convos(conversations1, conversations2):
             print(f'Interlocutor {interlocutor} had new conversations with: {new_conversations}')
 
 # Path to your data files
-file_path1 = '/Users/hann/Desktop/Developer/InteractiveRobot/Data preprocessing/TrainSet.dat'
+"""file_path1 = '/Users/hann/Desktop/Developer/InteractiveRobot/Data preprocessing/TrainSet.dat'
 file_path2 = '/Users/hann/Desktop/Developer/InteractiveRobot/TrainSet.dat'
+"""
+
+file_path1 = '/Users/hann/Desktop/Developer/InteractiveRobot/DataGen/dev-seen.dat'
+file_path2 = '/Users/hann/Desktop/Developer/InteractiveRobot/DataGen/dev-unseen.dat'
+
 
 # Parse the files
 conversations1 = parse_file(file_path1)
