@@ -58,9 +58,9 @@ if __name__ == "__main__":
     # Specify file paths dynamically
     #to regenerate to get unseen data comment seen data and uncomment unseen
     #files saved in seen data
-    fm.count_and_print_edges_within_partitions("DataGen/dev-seen.dat", "DataGen/test-seen.dat")
+    #fm.count_and_print_edges_within_partitions("DataGen/dev-seen.dat", "DataGen/test-seen.dat")
     #files saved in unseen data
-    #fm.count_and_print_edges_within_partitions("DataGen/dev-unseen.dat", "DataGen/test-unseen.dat")
+    fm.count_and_print_edges_within_partitions("DataGen/dev-unseen.dat", "DataGen/test-unseen.dat")
 
 
 
